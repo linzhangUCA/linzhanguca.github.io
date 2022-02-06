@@ -20,7 +20,7 @@ title                    : "Lin Zhang's Site"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Lin Zhang"
-description              : "Hosts a Roboticist's work at University of Central Arkansas"
+description              : "Hosts a Lin's work at UCA"
 url                      : "https://linzhanguca.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Lin Zhang"
   avatar           : /assets/images/portrait_1024x1024.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a roboticist working at University of Central Arkansas"
+  bio              : "A roboticist at UCA"
   location         : "Conway, Arkansas"
   email            : lzhang12@uca.edu
   links:
