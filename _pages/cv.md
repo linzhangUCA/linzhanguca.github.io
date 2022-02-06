@@ -2,7 +2,7 @@
 permalink: /cv/
 title: "CV"
 last_modified_at: 2022-02-04T11:54:25-06:00
-toc: true
+toc: false
 ---
 
 View my [CV here](https://linzhanguca.github.io/_pages/zhang_cv.pdf)
