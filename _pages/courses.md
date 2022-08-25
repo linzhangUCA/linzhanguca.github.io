@@ -14,5 +14,5 @@ toc: true
 - ENGR 4312 Senior Design II
 
 ## Fall 2022
-- ENGR 3421 Robotics I
+- [ENGR 3421 Robotics I](/robotics1-2022)
 - ENGR 4311 Senior Design I
