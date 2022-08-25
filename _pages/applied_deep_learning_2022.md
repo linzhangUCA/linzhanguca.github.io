@@ -11,7 +11,7 @@ header:
 excerpt: >
   <small>Lectures/Labs: Mon/Wed 1:00 p.m. - 2:15 p.m., CCCS 105</small>
 ---
-[Syllabus](/_docs/applied_deep_learning-2022/syllabus.pdf)
+[Syllabus](/_docs/applied_deep_learning-2022/engr4350-syllabus.pdf)
 
 ## Lecture Slides
 - [0829: ]()

@@ -11,6 +11,6 @@ header:
 excerpt: >
   <small>Meetings: Tue 02:40 - 05:20 p.m. / Fri 03:00 - 03:50 p.m., CCCS 112</small>
 ---
-[Syllabus](/_docs/senior_design_1-2022/syllabus.pdf)
+[Syllabus](/_docs/senior_design_1-2022/engr4311-syllabus.pdf)
 
 ## Projects

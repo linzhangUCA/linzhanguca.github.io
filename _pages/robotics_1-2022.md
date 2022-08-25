@@ -11,7 +11,7 @@ header:
 excerpt: >
   <small>Lectures/Labs: Tue/Thu 10:50 a.m. - 1:30 p.m., LSCA 105</small>
 ---
-[Syllabus](/_docs/robotics_1-2022/syllabus.pdf)
+[Syllabus](/_docs/robotics_1-2022/engr3421-syllabus.pdf)
 
 ## Lecture Slides
 - [0824: Introduction](/_docs/robotics_1-2022/0825_intro.pdf)
