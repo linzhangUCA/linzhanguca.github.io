@@ -1,19 +1,16 @@
 ---
 layout: splash
 author_profile: true
-permalink: /robotics1-2022
+permalink: /senior_design_1-2022
 hidden: true
-title: Robotics I
+title: Senior Design I
 header:
   overlay_image: /assets/images/heavenly.jpg
   overlay_color: "#ffffff"
   overlay_filter: linear-gradient(rgba(79, 45, 127, 0.9), rgba(129, 138, 143, 0.5))
 excerpt: >
-  <small>Lectures/Labs: Tue/Thu 10:50 a.m. - 1:30 p.m., LSCA 105</small>
+  <small>Meetings: Tue 02:40 - 05:20 p.m. / Fri 03:00 - 03:50 p.m., CCCS 112</small>
 ---
-[Syllabus](/_docs/robotics1-2022/syllabus.pdf)
-
-## Lecture Slides
-- [0824: Introduction](/_docs/robotics1-2022/0825_intro.pdf)
+[Syllabus](/_docs/senior_design_1-2022/syllabus.pdf)
 
 ## Projects
