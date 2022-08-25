@@ -15,4 +15,5 @@ toc: true
 
 ## Fall 2022
 - [ENGR 3421 Robotics I](/robotics1-2022)
+- [ENGR 4350 Applied Deep Learning](/applied_deep_learning-2022)
 - ENGR 4311 Senior Design I
