@@ -11,4 +11,3 @@ excerpt: >
   Department of Physics and Astronomy<br />
   University of Central Arkansas</small>
 ---
-# Let's make robots!
