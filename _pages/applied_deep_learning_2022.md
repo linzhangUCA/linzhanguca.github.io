@@ -14,6 +14,6 @@ excerpt: >
 [Syllabus](/_docs/applied_deep_learning-2022/engr4350-syllabus.pdf)
 
 ## Lecture Slides
-- [0829: ]()
+- [0829: ](/_docs/applied_deep_learning-2022/0829_intro.pdf)
 
 ## Projects
