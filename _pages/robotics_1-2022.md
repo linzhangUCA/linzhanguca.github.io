@@ -14,6 +14,7 @@ excerpt: >
 [Syllabus](/_docs/robotics_1-2022/engr3421-syllabus.pdf)
 
 ## Lecture Slides
-- [0824: Introduction](/_docs/robotics_1-2022/0825_intro.pdf)
+- [0824: Introduction](/_docs/robotics_1-2022/0825/intro.pdf)
+- [0830: Mechnical Design](/_docs/robotics_1-2022/0830/design.pdf)
 
 ## Projects
