@@ -14,6 +14,7 @@ excerpt: >
 [Syllabus](/_docs/applied_deep_learning-2022/engr4350-syllabus.pdf)
 
 ## Lecture Slides
-- [0829: Introduction](/_docs/applied_deep_learning-2022/0829_intro.pdf)
+- [0829: Introduction](/_docs/applied_deep_learning-2022/0829/intro.pdf)
+- [0831: Logistic Regression](/_docs/applied_deep_learning-2022/0831/logistic_regression.pdf)
 
 ## Projects
