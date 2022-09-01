@@ -16,5 +16,6 @@ excerpt: >
 ## Lecture Slides
 - [0824: Introduction](/_docs/robotics_1-2022/0825/intro.pdf)
 - [0830: Mechnical Design](/_docs/robotics_1-2022/0830/design.pdf)
+- [0901: Raspberry Pi](/_docs/robotics_1-2022/0901/rpi.pdf)
 
 ## Projects
