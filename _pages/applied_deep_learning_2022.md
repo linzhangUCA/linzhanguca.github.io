@@ -16,5 +16,6 @@ excerpt: >
 ## Lecture Slides
 - [0829: Introduction](/_docs/applied_deep_learning-2022/0829/intro.pdf)
 - [0831: Logistic Regression: P1](/_docs/applied_deep_learning-2022/0831/logistic_regression_p1.pdf)
+- [0907: Logistic Regression: P2](/_docs/applied_deep_learning-2022/0831/logistic_regression_p2.pdf)
 
 ## Projects
