@@ -12,6 +12,7 @@ excerpt: >
   <small>Lectures/Labs: Tue/Thu 10:50 a.m. - 1:30 p.m., LSCA 105</small>
 ---
 ### Latest Update
+**09/15/2022: Update slides for servo motor**
 **09/09/2022: Attach link for project 1**
 
 ## Syllabus
@@ -23,6 +24,7 @@ excerpt: >
 - [0901: Raspberry Pi](/_docs/robotics_1-2022/0901/rpi.pdf)
 - [0906: Python Tutorial](/_docs/robotics_1-2022/0906/python.pdf)
 - [0908: Motor Spin-Up](/_docs/robotics_1-2022/0908/motor.pdf)
+- [0908: Servo Motor](/_docs/robotics_1-2022/0915/servo.pdf)
 
 ## Projects
 - [Project 1: Naive HMI](https://classroom.github.com/a/xZw3sPr6)
