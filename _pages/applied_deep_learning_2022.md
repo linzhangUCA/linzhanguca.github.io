@@ -12,8 +12,10 @@ excerpt: >
   <small>Lectures/Labs: Mon/Wed 1:00 p.m. - 2:15 p.m., CCCS 105</small>
 ---
 ### Latest Update: 
+**09/22/2022: Add 0921 slides**
+
 **09/14/2022: Add 0914 slides**
-**09/09/2022: Fix assignment dues in syllabus**
+
 
 ## Syllabus
 [Syllabus](/_docs/applied_deep_learning-2022/engr4350-syllabus.pdf)
@@ -23,5 +25,6 @@ excerpt: >
 - [0831: Logistic Regression: P1](/_docs/applied_deep_learning-2022/0831/logistic_regression_p1.pdf)
 - [0907: Logistic Regression: P2](/_docs/applied_deep_learning-2022/0907/lr_p2.pdf)
 - [0914: Neural Network: P1](/_docs/applied_deep_learning-2022/0914/nn_p1.pdf)
+- [0921: Neural Network: P2](/_docs/applied_deep_learning-2022/0914/nn_p2.pdf)
 
 ## Projects
