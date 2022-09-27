@@ -12,8 +12,9 @@ excerpt: >
   <small>Lectures/Labs: Tue/Thu 10:50 a.m. - 1:30 p.m., LSCA 105</small>
 ---
 ### Latest Update
+**09/27/2022: Update encoder slides**
+
 **09/15/2022: Update slides for servo motor**
-**09/09/2022: Attach link for project 1**
 
 ## Syllabus
 [Syllabus](/_docs/robotics_1-2022/engr3421-syllabus.pdf)
@@ -25,6 +26,7 @@ excerpt: >
 - [0906: Python Tutorial](/_docs/robotics_1-2022/0906/python.pdf)
 - [0908: Motor Spin-Up](/_docs/robotics_1-2022/0908/motor.pdf)
 - [0915: Servo Motor](/_docs/robotics_1-2022/0915/servo.pdf)
+- [0927: Encoder](/_docs/robotics_1-2022/0927/encoder.pdf)
 
 ## Projects
 - [Project 1: Naive HMI](https://classroom.github.com/a/xZw3sPr6)

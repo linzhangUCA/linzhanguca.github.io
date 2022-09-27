@@ -25,6 +25,6 @@ excerpt: >
 - [0831: Logistic Regression: P1](/_docs/applied_deep_learning-2022/0831/logistic_regression_p1.pdf)
 - [0907: Logistic Regression: P2](/_docs/applied_deep_learning-2022/0907/lr_p2.pdf)
 - [0914: Neural Network: P1](/_docs/applied_deep_learning-2022/0914/nn_p1.pdf)
-- [0921: Neural Network: P2](/_docs/applied_deep_learning-2022/0914/nn_p2.pdf)
+- [0921: Neural Network: P2](/_docs/applied_deep_learning-2022/0921/nn_p2.pdf)
 
 ## Projects
