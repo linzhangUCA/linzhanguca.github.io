@@ -12,8 +12,8 @@ excerpt: >
   <small>Lectures/Labs: Tue/Thu 10:50 a.m. - 1:30 p.m., LSCA 105</small>
 ---
 ### Latest Update
-- 09/29/2022: Add "distance sensor" slides**
-- 09/27/2022: Update "encoder" slides**
+- 09/29/2022: Add "distance sensor" slides
+- 09/27/2022: Update "encoder" slides
 
 
 ## Syllabus

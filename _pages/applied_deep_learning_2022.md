@@ -12,8 +12,8 @@ excerpt: >
   <small>Lectures/Labs: Mon/Wed 1:00 p.m. - 2:15 p.m., CCCS 105</small>
 ---
 ### Latest Update: 
-- 09/28/2022: Add "Model Tuning" slides**
-- 09/22/2022: Add "Neural Network: P2" slides**
+- 10/03/2022: Update "Neural Network: P2" slides
+- 09/28/2022: Add "Model Tuning" slides
 
 ## Syllabus
 [Syllabus](/_docs/applied_deep_learning-2022/engr4350-syllabus.pdf)
