@@ -12,9 +12,9 @@ excerpt: >
   <small>Lectures/Labs: Mon/Wed 1:00 p.m. - 2:15 p.m., CCCS 105</small>
 ---
 ### Latest Update: 
+- 10/19/2022: Add "Convolutional Neural Network" slides
 - 10/12/2022: Add "Pytorch" notebook
 - 10/12/2022: Add "Optimization" slides
-- 10/03/2022: Update "Neural Network: P2" slides
 
 ## Syllabus
 [Syllabus](/_docs/applied_deep_learning-2022/engr4350-syllabus.pdf)
@@ -29,5 +29,6 @@ excerpt: >
 - [0928: Model Tuning](/_docs/applied_deep_learning-2022/0928/tuning.pdf)
 - [1005: Optimization](/_docs/applied_deep_learning-2022/1005/optimization.pdf)
 - [1012: Pytorch](/_docs/applied_deep_learning-2022/1012/example_fashion.ipynb)
+- [1019: Convolutional Neural Network](/_docs/applied_deep_learning-2022/1019/convnet.pdf)
 
 ## Projects
