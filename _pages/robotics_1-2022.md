@@ -29,7 +29,8 @@ excerpt: >
 - [0927: Encoder](/_docs/robotics_1-2022/0927/encoder.pdf)
 - [0929: Distance Sensor](/_docs/robotics_1-2022/0929/hc-sr04.pdf)
 - [1013: LiDAR](/_docs/robotics_1-2022/1013/lidar.pdf)
+- [1101: Robotic Vision](/_docs/robotics_1-2022/1101/vision.pdf)
 
 ## Projects
 - [Project 1: Naive HMI](https://classroom.github.com/a/xZw3sPr6)
-- [Project 2: Naive HMI](https://classroom.github.com/a/AIp1hXXi)
+- [Project 2: Wall Bouncer](https://classroom.github.com/a/AIp1hXXi)
