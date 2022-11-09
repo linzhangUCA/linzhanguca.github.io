@@ -12,10 +12,10 @@ excerpt: >
   <small>Lectures/Labs: Mon/Wed 1:00 p.m. - 2:15 p.m., CCCS 105</small>
 ---
 ### Latest Update: 
+- 11/09/2022: Add "Classic ConvNets" slides
 - 11/07/2022: Add "AlexNet paper"
 - 10/19/2022: Add "Convolutional Neural Network" slides
 - 10/12/2022: Add "Pytorch" notebook
-- 10/12/2022: Add "Optimization" slides
 
 ## Syllabus
 [Syllabus](/_docs/applied_deep_learning-2022/engr4350-syllabus.pdf)
@@ -32,4 +32,5 @@ excerpt: >
 - [1012: Pytorch](/_docs/applied_deep_learning-2022/1012/example_fashion.ipynb)
 - [1019: Convolutional Neural Network](/_docs/applied_deep_learning-2022/1019/convnet.pdf)
 - [1026: Classic Paper Reading: AlexNet](/_docs/applied_deep_learning-2022/1026/krizhevsky2012imagenet.pdf)
+- [1109: Classic ConvNets](/_docs/applied_deep_learning-2022/1109/classic_convnet.pdf)
 
