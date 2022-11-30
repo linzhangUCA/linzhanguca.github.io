@@ -12,10 +12,10 @@ excerpt: >
   <small>Lectures/Labs: Mon/Wed 1:00 p.m. - 2:15 p.m., CCCS 105</small>
 ---
 ### Latest Update: 
+- 11/30/2022: Add "GAN" slides
 - 11/16/2022: Add "Autoencoder" slides
 - 11/09/2022: Add "Classic ConvNets" slides
 - 11/07/2022: Add "AlexNet paper"
-- 10/19/2022: Add "Convolutional Neural Network" slides
 
 ## Syllabus
 [Syllabus](/_docs/applied_deep_learning-2022/engr4350-syllabus.pdf)
@@ -34,4 +34,5 @@ excerpt: >
 - [1026: Classic Paper Reading: AlexNet](/_docs/applied_deep_learning-2022/1026/krizhevsky2012imagenet.pdf)
 - [1109: Classic ConvNets](/_docs/applied_deep_learning-2022/1109/classic_convnet.pdf)
 - [1116: Autoencoder](/_docs/applied_deep_learning-2022/1116/autoencoder.pdf)
+- [1116: Generative Adversarial Network](/_docs/applied_deep_learning-2022/1130/gan.pdf)
 
