@@ -19,6 +19,6 @@ excerpt: >
 [Syllabus](/_docs/robotics_2-2023/syllabus.pdf)
 
 ## Lecture Slides
-- [0112: Review \& Preview](/_docs/robotics_2-2023/0112/review.pdf)
+- [0112: Review & Preview](/_docs/robotics_2-2023/0112/review.pdf)
 
 ## Projects
