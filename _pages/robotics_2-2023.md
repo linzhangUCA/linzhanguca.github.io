@@ -22,3 +22,4 @@ excerpt: >
 - [0112: Review & Preview](/_docs/robotics_2-2023/0112/review.pdf)
 
 ## Projects
+- [Project 1: Build the Robot](/_docs/robotics_2-2023/project_1.pdf)
