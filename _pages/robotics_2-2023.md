@@ -12,7 +12,7 @@ excerpt: >
   <small>Lectures/Labs: Tue/Thu 10:50 a.m. - 1:30 p.m., LSCA 105</small>
 ---
 ### Latest Update
-- 01/10/2023: 
+- 01/19/2023:  Upload Linux & CLI slides. 
 
 
 ## Syllabus
@@ -20,6 +20,7 @@ excerpt: >
 
 ## Lecture Slides
 - [0112: Review & Preview](/_docs/robotics_2-2023/0112/review.pdf)
+- [0119: Linux & CLI](/_docs/robotics_2-2023/0119/linux_cli.pdf)
 
 ## Projects
 - [Project 1: Build the Robot](/_docs/robotics_2-2023/project_1.pdf)
