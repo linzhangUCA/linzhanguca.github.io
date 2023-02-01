@@ -12,8 +12,8 @@ excerpt: >
   <small>Lectures/Labs: Tue/Thu 10:50 a.m. - 1:30 p.m., LSCA 105</small>
 ---
 ### Latest Update
-- 01/19/2023:  Upload Linux & CLI slides. 
 - 01/26/2023:  Upload ROS tutorial 1 slides. 
+- 01/31/2023:  **No class due to inclement weather.** 
 
 
 ## Syllabus
