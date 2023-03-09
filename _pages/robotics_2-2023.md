@@ -24,7 +24,7 @@ excerpt: >
 - [0119: Linux & CLI](/_docs/robotics_2-2023/0119/linux_cli.pdf)
 - [0126: ROS Tutorial 1: CLI Tools](/_docs/robotics_2-2023/0126/ros_tutorial_cli_tools.pdf)
 - [0202: ROS Tutorial 2: Client Libraries](/_docs/robotics_2-2023/0202/ros_tutorial_client_libraries.pdf)
-- [0203: ROS Tutorial 3: URDF](/_docs/robotics_2-2023/0302/ros_tutorial_urdf.pdf)
+- [0302: ROS Tutorial 3: URDF](/_docs/robotics_2-2023/0302/ros_tutorial_urdf.pdf)
 
 ## Projects
 - [Project 1: Build the Robot](/_docs/robotics_2-2023/project_1.pdf)
