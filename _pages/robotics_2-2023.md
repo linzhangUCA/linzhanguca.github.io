@@ -29,3 +29,4 @@ excerpt: >
 
 ## Projects
 - [Project 1: Build the Robot](/_docs/robotics_2-2023/project_1.pdf)
+- [Project 2: Navigate the Robot](/_docs/robotics_2-2023/project_2.pdf)
