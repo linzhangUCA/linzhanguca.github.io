@@ -18,6 +18,6 @@ excerpt: >
 [Syllabus](/_docs/robotics_1-2023/engr3421-syllabus.pdf)
 
 ## Lecture Slides
-- [0825: Introduction](/_docs/robotics_1-2023/0825/intro.pdf)
+- [0824: Introduction](/_docs/robotics_1-2023/0824/intro.pdf)
 
 ## Projects
