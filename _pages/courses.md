@@ -5,6 +5,7 @@ last_modified_at: 2022-02-05T00:16:50-06:00
 toc: true
 ---
 ## Fall 2023
+- [ENGR 3321 Introduction to Deep Learning for Robotics](/deep_learning-2023)
 - [ENGR 3421 Robotics I](/robotics_1-2023)
 
 ## Spring 2023
