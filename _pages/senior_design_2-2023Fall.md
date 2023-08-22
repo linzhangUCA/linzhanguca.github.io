@@ -1,9 +1,9 @@
 ---
 layout: splash
 author_profile: true
-permalink: /senior_design_1-2023Fall
+permalink: /senior_design_2-2023Fall
 hidden: true
-title: Senior Design I
+title: Senior Design II
 header:
   overlay_image: /assets/images/heavenly.jpg
   overlay_color: "#ffffff"
@@ -11,6 +11,6 @@ header:
 excerpt: >
   <small>Meetings: Tue 02:40 - 05:20 p.m., LSCA 105 / Fri 03:00 - 03:50 p.m., CCCS 112</small>
 ---
-[Syllabus](/_docs/senior_design_1-2023Fall/syllabus.pdf)
+[Syllabus](/_docs/senior_design_2-2023Fall/syllabus.pdf)
 
 ## Project Updates
