@@ -7,6 +7,7 @@ toc: true
 ## Fall 2023
 - [ENGR 3321 Introduction to Deep Learning for Robotics](/deep_learning-2023)
 - [ENGR 3421 Robotics I](/robotics_1-2023)
+- [ENGR 4311 Senior Design I](/senior_design_1-2023Fall)
 
 ## Spring 2023
 - [ENGR 4421 Robotics II](/robotics_2-2023)
