@@ -12,6 +12,7 @@ excerpt: >
   <small>Lectures/Labs: Tue/Thu 10:50 a.m. - 1:30 p.m., LSCA 105</small>
 ---
 ### Latest Update
+0823: Uploaded Introduction slides.
 
 
 ## Syllabus
