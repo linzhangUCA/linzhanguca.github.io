@@ -15,7 +15,7 @@ excerpt: >
 - 08/28/2023: Uploaded Introduction slides.
 
 ## Syllabus
-[Syllabus](/_docs/deep_learning-2023/engr3321-syllabus.pdf)
+[Syllabus](/_docs/deep_learning-2023/syllabus.pdf)
 
 ## Lecture Slides
 - [0828: Introduction](/_docs/deep_learning-2023/0828/intro.pdf)
