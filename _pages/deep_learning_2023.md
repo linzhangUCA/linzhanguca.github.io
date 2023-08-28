@@ -12,6 +12,7 @@ excerpt: >
   <small>Lectures/Labs: Mon/Wed 1:00 p.m. - 2:15 p.m., CCCS 105</small>
 ---
 ### Latest Update: 
+- 08/28/2023: Uploaded Introduction slides.
 
 ## Syllabus
 [Syllabus](/_docs/deep_learning-2023/engr3321-syllabus.pdf)
