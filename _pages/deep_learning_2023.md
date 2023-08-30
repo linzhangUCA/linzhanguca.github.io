@@ -20,3 +20,6 @@ excerpt: >
 ## Lecture Slides
 - [0828: Introduction](/_docs/deep_learning-2023/0828/intro.pdf)
 
+## Assignments
+- [Assignment 1: Numpy Basics](https://classroom.github.com/a/ZHpTNrDe)
+

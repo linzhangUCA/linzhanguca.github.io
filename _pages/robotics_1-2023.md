@@ -24,5 +24,6 @@ excerpt: >
 - [0829: Raspberry Pi Pico](/_docs/robotics_1-2023/0829/pico.pdf)
 
 ## Assignments
+- [Assignment 1: Robot Base](https://classroom.github.com/a/4B43r4q1)
 
 ## Projects
