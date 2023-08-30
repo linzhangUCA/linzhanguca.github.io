@@ -25,5 +25,6 @@ excerpt: >
 
 ## Assignments
 - [Assignment 1: Robot Base](https://classroom.github.com/a/4B43r4q1)
+- [Assignment 2: GPIO Practice](https://classroom.github.com/a/T3QVv4CD)
 
 ## Projects
