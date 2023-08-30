@@ -12,6 +12,7 @@ excerpt: >
   <small>Lectures/Labs: Tue/Thu 10:50 a.m. - 1:30 p.m., LSCA 105</small>
 ---
 ### Latest Update
+0830: Uploaded Raspberry Pi Pico slides.
 0823: Uploaded Introduction slides.
 
 
@@ -20,5 +21,8 @@ excerpt: >
 
 ## Lecture Slides
 - [0824: Introduction](/_docs/robotics_1-2023/0824/intro.pdf)
+- [0829: Raspberry Pi Pico](/_docs/robotics_1-2023/0829/pico.pdf)
+
+## Assignments
 
 ## Projects
