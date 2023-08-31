@@ -12,8 +12,8 @@ excerpt: >
   <small>Lectures/Labs: Tue/Thu 10:50 a.m. - 1:30 p.m., LSCA 105</small>
 ---
 ### Latest Update
-0830: Uploaded Raspberry Pi Pico slides.
-0823: Uploaded Introduction slides.
+- 0830: Uploaded Raspberry Pi Pico slides.
+- 0823: Uploaded Introduction slides.
 
 
 ## Syllabus
