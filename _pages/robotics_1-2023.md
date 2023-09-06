@@ -12,6 +12,7 @@ excerpt: >
   <small>Lectures/Labs: Tue/Thu 10:50 a.m. - 1:30 p.m., LSCA 105</small>
 ---
 ### Latest Update
+- 0906: Uploaded Motors Spin-Up slides.
 - 0830: Uploaded Raspberry Pi Pico slides.
 - 0823: Uploaded Introduction slides.
 
@@ -22,9 +23,11 @@ excerpt: >
 ## Lecture Slides
 - [0824: Introduction](/_docs/robotics_1-2023/0824/intro.pdf)
 - [0829: Raspberry Pi Pico](/_docs/robotics_1-2023/0829/pico.pdf)
+- [0905: Motors Spin-Up](/_docs/robotics_1-2023/0905/motor.pdf)
 
 ## Assignments
 - [Assignment 1: Robot Base](https://classroom.github.com/a/4B43r4q1)
 - [Assignment 2: GPIO Practice](https://classroom.github.com/a/T3QVv4CD)
 
 ## Projects
+- [Project 1: Naive HMI](https://classroom.github.com/a/Ov8Qve2i)
