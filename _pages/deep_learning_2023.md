@@ -24,7 +24,7 @@ excerpt: >
 - [0918: Neural Network 101](/_docs/deep_learning-2023/0918/nn101.pdf)
     - [Jupyter Notebook: nn101](/_docs/deep_learning-2023/0918/nn101_ipynb.zip)
 - [0925: Neural Network 201](/_docs/deep_learning-2023/0918/nn201.pdf)
-    - [Jupyter Notebook: nn201](/_docs/deep_learning-2023/0918/nn201.zip)
+    - [Jupyter Notebook: nn201](/_docs/deep_learning-2023/0925/nn201.zip)
 
 ## Assignments
 - [Assignment 1: Numpy Basics](https://classroom.github.com/a/ZHpTNrDe)
