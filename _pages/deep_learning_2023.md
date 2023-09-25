@@ -12,9 +12,9 @@ excerpt: >
   <small>Lectures/Labs: Mon/Wed 1:00 p.m. - 2:15 p.m., CCCS 105</small>
 ---
 ### Latest Update: 
+- 09/25/2023: Uploaded nn201 Notebook.
 - 09/22/2023: Uploaded Neural Network 101 slides and updated nn101 Notebook.
 - 09/18/2023: Uploaded nn_101 Jupyter Notebook.
-- 08/28/2023: Uploaded Introduction slides.
 
 ## Syllabus
 [Syllabus](/_docs/deep_learning-2023/syllabus.pdf)
@@ -23,7 +23,10 @@ excerpt: >
 - [0828: Introduction](/_docs/deep_learning-2023/0828/intro.pdf)
 - [0918: Neural Network 101](/_docs/deep_learning-2023/0918/nn101.pdf)
     - [Jupyter Notebook: nn101](/_docs/deep_learning-2023/0918/nn101_ipynb.zip)
+- [0925: Neural Network 201](/_docs/deep_learning-2023/0918/nn201.pdf)
+    - [Jupyter Notebook: nn201](/_docs/deep_learning-2023/0918/nn201.zip)
 
 ## Assignments
 - [Assignment 1: Numpy Basics](https://classroom.github.com/a/ZHpTNrDe)
+- [Assignment 2: Linear Model](https://classroom.github.com/a/J9GnTCNI)
 
