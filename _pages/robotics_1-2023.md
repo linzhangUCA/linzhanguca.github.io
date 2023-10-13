@@ -12,9 +12,9 @@ excerpt: >
   <small>Lectures/Labs: Tue/Thu 10:50 a.m. - 1:30 p.m., LSCA 105</small>
 ---
 ### Latest Update
+- 1013: Uploaded 0926, 1010 slides.
 - 1002: Uploaded Mechanical Design slides.
 - 0919: Uploaded Ultrasonic Distance Sensor slides.
-- 0906: Uploaded Motors Spin-Up slides.
 
 
 ## Syllabus
@@ -25,7 +25,9 @@ excerpt: >
 - [0829: Raspberry Pi Pico](/_docs/robotics_1-2023/0829/pico.pdf)
 - [0905: Motors Spin-Up](/_docs/robotics_1-2023/0905/motor.pdf)
 - [0919: Ultrasonic Distance Sensor](/_docs/robotics_1-2023/0919/ultrasonic.pdf)
+- [0926: Power System](/_docs/robotics_1-2023/0926/power.pdf)
 - [1003: Mechanical Design](/_docs/robotics_1-2023/1003/mechanics.pdf)
+- [1010: Encoder](/_docs/robotics_1-2023/1010/encoder.pdf)
 
 ## Assignments
 - [Assignment 1: Robot Base](https://classroom.github.com/a/4B43r4q1)
