@@ -29,4 +29,5 @@ excerpt: >
 ## Assignments
 - [Assignment 1: Numpy Basics](https://classroom.github.com/a/ZHpTNrDe)
 - [Assignment 2: Linear Model](https://classroom.github.com/a/J9GnTCNI)
+- [Assignment 3: Logistic Regression](https://classroom.github.com/a/yrK6yOMu)
 
