@@ -12,8 +12,8 @@ excerpt: >
   <small>Lectures/Labs: Mon/Wed 1:00 p.m. - 2:15 p.m., CCCS 105</small>
 ---
 ### Latest Updates: 
-- 11/06/2023: Uploaded nnNNN slides and nnN11 notebook. 
-- 10/30/2023: Uploaded nnN11 slides. 
+- 11/06/2023: Uploaded nnNNN slides and notebook. 
+- 10/30/2023: Uploaded nnN11 slides and notebook. 
 - 10/16/2023: Uploaded nnN01 slides and notebook.
 
 ## Syllabus
@@ -30,9 +30,11 @@ excerpt: >
 - [1030: Neural Network N11](/_docs/deep_learning-2023/1030/nnN11.pdf)
     - [Jupyter Notebook: nnN11](/_docs/deep_learning-2023/1030/nn_n11.ipynb)
 - [1106: Neural Network NNN](/_docs/deep_learning-2023/1106/nnNNN.pdf)
+    - [Jupyter Notebook: nnNNN](/_docs/deep_learning-2023/1106/nn_nnn.ipynb)
 
 ## Assignments
 - [Assignment 1: Numpy Basics](https://classroom.github.com/a/ZHpTNrDe)
 - [Assignment 2: Linear Model](https://classroom.github.com/a/J9GnTCNI)
 - [Assignment 3: Logistic Regression](https://classroom.github.com/a/yrK6yOMu)
+- [Assignment 4: Multi-Layer Perceptron](https://classroom.github.com/a/ckSYLjRy)
 
