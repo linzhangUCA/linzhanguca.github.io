@@ -12,9 +12,9 @@ excerpt: >
   <small>Lectures/Labs: Tue/Thu 10:50 a.m. - 1:30 p.m., LSCA 105</small>
 ---
 ### Latest Update
+- 1113: Uploaded 1114 slides.
 - 1107: Updated 0905, 1010 slides. Uploaded 1107 slides.
 - 1013: Uploaded 0926, 1010 slides.
-- 1002: Uploaded Mechanical Design slides.
 
 
 ## Syllabus
@@ -31,6 +31,7 @@ excerpt: >
 - [1017: Kinematics of Differential Drive](/_docs/robotics_1-2023/1017/kinematics.pdf)
 - [1031: Raspberry Pi Get Started](/_docs/robotics_1-2023/1031/rpi.pdf)
 - [1107: LiDAR](/_docs/robotics_1-2023/1107/lidar.pdf)
+- [1114: Robotic Vision](/_docs/robotics_1-2023/1114/vision.pdf)
 
 ## Assignments
 - [Assignment 1: Robot Base](https://classroom.github.com/a/4B43r4q1)
@@ -38,6 +39,7 @@ excerpt: >
 - [Assignment 3: Robot Test Drive](https://classroom.github.com/a/Kh_HMFgw)
 - [Assignment 4: Wall Sensing](https://classroom.github.com/a/Rd5sN4uC)
 - [Assignment 5: Distance Control](https://classroom.github.com/a/vAs41PAP)
+- [Assignment 6: Wall Following](https://classroom.github.com/a/0LxkqZrp)
 
 ## Projects
 - [Project 1: Naive HMI](https://classroom.github.com/a/Ov8Qve2i)
