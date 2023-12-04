@@ -12,7 +12,7 @@ excerpt: >
   <small>Lectures/Labs: Mon/Wed 1:00 p.m. - 2:15 p.m., CCCS 105</small>
 ---
 ### Latest Updates: 
-- 11/29/2023: Uploaded convnet slides. 
+- 12/04/2023: Uploaded convnet and summary slides. 
 - 11/06/2023: Uploaded nnNNN slides and notebook. 
 - 10/30/2023: Uploaded nnN11 slides and notebook. 
 
@@ -32,6 +32,7 @@ excerpt: >
 - [1106: Neural Network NNN](/_docs/deep_learning-2023/1106/nnNNN.pdf)
     - [Jupyter Notebook: nnNNN](/_docs/deep_learning-2023/1106/nn_nnn.ipynb)
 - [1129: Convolutional Neural Network](/_docs/deep_learning-2023/1129/convnet.pdf)
+- [1204: Summary](/_docs/deep_learning-2023/1204/summary.pdf)
 
 ## Assignments
 - [Assignment 1: Numpy Basics](https://classroom.github.com/a/ZHpTNrDe)
