@@ -13,11 +13,13 @@ excerpt: >
 ---
 ### Latest Update
 - 0111: Uploaded syllabus.
+- 0119: Uploaded command-line interface slides
 
 ## Syllabus
 [Syllabus](/_docs/robotics_2-2024/syllabus.pdf)
 
 ## Lecture Slides
+- [0118: Linux Command-Line Interface](/_docs/robotics_2-2024/0118/cli.pdf)
 
 ## Assignments
 
