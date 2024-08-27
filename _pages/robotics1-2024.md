@@ -14,6 +14,7 @@ excerpt: >
   <small>Lectures/Labs: Tue/Thu 10:50 a.m. - 1:30 p.m., LSCA 105</small>
 ---
 # Latest Updates
+- 08/26: Update assignment 1's link.
 - 08/21: Uploaded syllabus and "intro" slides.
 
 
@@ -24,5 +25,6 @@ excerpt: >
 - [0822: Introduction](/_docs/robotics1-2024/0822/intro.pdf)
 
 # Assignments
+1. [Build Robot Base](https://classroom.github.com/a/J1gLty8v)
 
 # Projects
