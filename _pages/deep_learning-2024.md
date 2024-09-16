@@ -14,6 +14,7 @@ excerpt: >
   <small>Classes: Mon/Wed 01:00 p.m. - 2:15 p.m., CCCS 111</small>
 ---
 # Latest Updates
+- 09/16: Update Assignment 1 link.
 - 08/26: Uploaded syllabus and "intro" slides.
 
 
@@ -24,6 +25,7 @@ excerpt: >
 - [0826: Introduction](/_docs/deep_learning-2024/0826/intro.pdf)
 
 # Assignments
+1. Linear Model: [https://classroom.github.com/a/DGzH7Pk6](https://classroom.github.com/a/DGzH7Pk6)
 
 # Projects
 
