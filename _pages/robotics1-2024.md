@@ -14,9 +14,9 @@ excerpt: >
   <small>Lectures/Labs: Tue/Thu 10:50 a.m. - 1:30 p.m., LSCA 105</small>
 ---
 # Latest Updates
-- 09/05: Uploaded "pico" slides and updated assignment 2' link.
+- 09/17: Uploaded "motor" slides and updated project 1's link.
+- 09/05: Uploaded "pico" slides and updated assignment 2's link.
 - 08/29: Learn Python in Y minutes link available.
-- 08/26: Update assignment 1's link.
 
 
 # Syllabus
@@ -26,6 +26,7 @@ excerpt: >
 - [0822: Introduction](/_docs/robotics1-2024/0822/intro.pdf)
 - [0829: Python (P)review](https://learnxinyminutes.com/docs/python/)
 - [0905: Pico](/_docs/robotics1-2024/0905/pico.pdf)
+- [0917: Motor](/_docs/robotics1-2024/0917/motor.pdf)
 
 # Assignments
 1. [Build Robot Base](https://classroom.github.com/a/J1gLty8v)
