@@ -14,6 +14,7 @@ excerpt: >
   <small>Classes: Mon/Wed 01:00 p.m. - 2:15 p.m., CCCS 111</small>
 ---
 # Latest Updates
+- 09/17: Uploaded "nn101" slides and updated assignment 1 link.
 - 08/26: Uploaded syllabus and "intro" slides.
 
 
@@ -22,8 +23,10 @@ excerpt: >
 
 # Lecture Slides
 - [0826: Introduction](/_docs/deep_learning-2024/0826/intro.pdf)
+- [0911: NN101](/_docs/deep_learning-2024/0911/nn101.pdf)
 
 # Assignments
+1. [Linear Model](https://classroom.github.com/a/DGzH7Pk6)
 
 # Projects
 
