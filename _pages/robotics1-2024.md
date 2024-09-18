@@ -32,3 +32,4 @@ excerpt: >
 2. [Raspberry Pi Pico Practice](https://classroom.github.com/a/VQcXd_Iv)
 
 # Projects
+1. [Naive HMI](https://classroom.github.com/a/jYniyPtg)
