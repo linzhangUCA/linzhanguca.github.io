@@ -14,6 +14,7 @@ excerpt: >
   <small>Classes: Mon/Wed 01:00 p.m. - 2:15 p.m., CCCS 111</small>
 ---
 # Latest Updates
+- 09/23: Uploaded "nnN01" slides
 - 09/18: Uploaded "nn201" slides and updated nn101 example link.
 - 09/17: Uploaded "nn101" slides and updated assignment 1 link.
 - 08/26: Uploaded syllabus and "intro" slides.
@@ -27,6 +28,7 @@ excerpt: >
 - [0911: NN101](/_docs/deep_learning-2024/0911/nn101.pdf)
 - [0916: NN101 JupyterNotebook](https://github.com/linzhangUCA/3321example-nn101.git)
 - [0918: NN201](/_docs/deep_learning-2024/0918/nn201.pdf)
+- [0923: NNN01](/_docs/deep_learning-2024/0923/nnN01.pdf)
 
 # Assignments
 1. [Linear Model](https://classroom.github.com/a/DGzH7Pk6)
