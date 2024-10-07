@@ -30,7 +30,7 @@ excerpt: >
 - [0923: NNN01](/_docs/deep_learning-2024/0923/nnN01.pdf)
 - [0925: NN201 JupyterNotebook](https://github.com/linzhangUCA/3321example-nn201.git)
 - [0930: Binary Classification](/_docs/deep_learning-2024/0930/binary_classification.pdf)
-- [0930: Binary Classification JupyterNotebook](git@github.com:linzhangUCA/3321example-binary_classification.git)
+- [0930: Binary Classification JupyterNotebook](https://github.com:linzhangUCA/3321example-binary_classification.git)
 
 # Assignments
 1. [Linear Model](https://classroom.github.com/a/DGzH7Pk6)
