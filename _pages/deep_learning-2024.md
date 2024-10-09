@@ -14,9 +14,9 @@ excerpt: >
   <small>Classes: Mon/Wed 01:00 p.m. - 2:15 p.m., CCCS 111</small>
 ---
 # Latest Updates
+- 10/09: Uploaded "Image Processing" slides, updated assignment 2 link.
 - 10/06: Updated "Binary Classification" slides and example.
 - 09/23: Uploaded "nnN01" slides
-- 09/18: Uploaded "nn201" slides and updated nn101 example link.
 
 
 # Syllabus
@@ -31,9 +31,11 @@ excerpt: >
 - [0925: NN201 JupyterNotebook](https://github.com/linzhangUCA/3321example-nn201.git)
 - [0930: Binary Classification](/_docs/deep_learning-2024/0930/binary_classification.pdf)
 - [0930: Binary Classification JupyterNotebook](https://github.com/linzhangUCA/3321example-binary_classification.git)
+- [1007: Image Processing](/_docs/deep_learning-2024/1007/image.pdf)
 
 # Assignments
 1. [Linear Model](https://classroom.github.com/a/DGzH7Pk6)
+2. [Logistic Regression](https://classroom.github.com/a/c52Ug9IQ)
 
 # Projects
 
