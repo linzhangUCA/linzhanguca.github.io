@@ -14,9 +14,9 @@ excerpt: >
   <small>Lectures/Labs: Tue/Thu 10:50 a.m. - 1:30 p.m., LSCA 105</small>
 ---
 # Latest Updates
+- 10/14: Updated assignment 4 and project 2 link.
 - 10/08: Uploaded "mechanics" and "ultrasonic_sense" slides. Updated assignment 3 link.
 - 09/17: Uploaded "motor" slides and updated project 1's link.
-- 09/05: Uploaded "pico" slides and updated assignment 2's link.
 
 
 # Syllabus
@@ -34,6 +34,8 @@ excerpt: >
 1. [Build Robot Base](https://classroom.github.com/a/J1gLty8v)
 2. [Raspberry Pi Pico Practice](https://classroom.github.com/a/VQcXd_Iv)
 3. [Motor Test](https://classroom.github.com/a/9apGZMRE)
+4. [Wall Sensing](https://classroom.github.com/a/MRtWIxLi)
 
 # Projects
 1. [Naive HMI](https://classroom.github.com/a/jYniyPtg)
+2. [Wall Bouncer](https://classroom.github.com/a/UGxVkdJO)
