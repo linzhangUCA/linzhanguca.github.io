@@ -14,9 +14,9 @@ excerpt: >
   <small>Classes: Mon/Wed 01:00 p.m. - 2:15 p.m., CCCS 111</small>
 ---
 # Latest Updates
+- 10/18: Uploaded "nnN11" slides and example.
 - 10/09: Uploaded "Image Processing" slides, updated assignment 2 link.
 - 10/06: Updated "Binary Classification" slides and example.
-- 09/23: Uploaded "nnN01" slides
 
 
 # Syllabus
@@ -32,6 +32,8 @@ excerpt: >
 - [0930: Binary Classification](/_docs/deep_learning-2024/0930/binary_classification.pdf)
 - [0930: Binary Classification JupyterNotebook](https://github.com/linzhangUCA/3321example-binary_classification.git)
 - [1007: Image Processing](/_docs/deep_learning-2024/1007/image.pdf)
+- [1009: NNN11](/_docs/deep_learning-2024/1009/nnN11.pdf)
+- [1014: NNN11 JupyterNotebook](https://github.com/linzhangUCA/3321example-nnN11.git)
 
 # Assignments
 1. [Linear Model](https://classroom.github.com/a/DGzH7Pk6)
