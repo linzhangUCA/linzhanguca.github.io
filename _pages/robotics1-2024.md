@@ -14,9 +14,9 @@ excerpt: >
   <small>Lectures/Labs: Tue/Thu 10:50 a.m. - 1:30 p.m., LSCA 105</small>
 ---
 # Latest Updates
+- 10/29: Uploaded encoder and kinematics slides.
 - 10/14: Updated assignment 4 and project 2 link.
 - 10/08: Uploaded "mechanics" and "ultrasonic_sense" slides. Updated assignment 3 link.
-- 09/17: Uploaded "motor" slides and updated project 1's link.
 
 
 # Syllabus
@@ -29,6 +29,8 @@ excerpt: >
 - [0917: Motor](/_docs/robotics1-2024/0917/motor.pdf)
 - [0926: Mechanical Design](/_docs/robotics1-2024/0926/mechanics.pdf)
 - [1008: Ultrasonic Distance Sense](/_docs/robotics1-2024/1008/ultrasonic_sense.pdf)
+- [1015: Velocity Sense](/_docs/robotics1-2024/1015/encoder.pdf)
+- [1022: Kinematics](/_docs/robotics1-2024/1022/kinematics.pdf)
 
 # Assignments
 1. [Build Robot Base](https://classroom.github.com/a/J1gLty8v)
