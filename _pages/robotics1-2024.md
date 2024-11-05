@@ -14,9 +14,9 @@ excerpt: >
   <small>Lectures/Labs: Tue/Thu 10:50 a.m. - 1:30 p.m., LSCA 105</small>
 ---
 # Latest Updates
+- 11/05: Uploaded motor driver example code.
 - 10/29: Uploaded encoder and kinematics slides.
 - 10/14: Updated assignment 4 and project 2 link.
-- 10/08: Uploaded "mechanics" and "ultrasonic_sense" slides. Updated assignment 3 link.
 
 
 # Syllabus
@@ -31,6 +31,7 @@ excerpt: >
 - [1008: Ultrasonic Distance Sense](/_docs/robotics1-2024/1008/ultrasonic_sense.pdf)
 - [1015: Velocity Sense](/_docs/robotics1-2024/1015/encoder.pdf)
 - [1022: Kinematics](/_docs/robotics1-2024/1022/kinematics.pdf)
+- [1029: Example Motor Driving Code](https://github.com/linzhangUCA/3421example-motor_drivers)
 
 # Assignments
 1. [Build Robot Base](https://classroom.github.com/a/J1gLty8v)
