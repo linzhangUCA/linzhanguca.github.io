@@ -14,9 +14,9 @@ excerpt: >
   <small>Classes: Mon/Wed 01:00 p.m. - 2:15 p.m., CCCS 111</small>
 ---
 # Latest Updates
+- 11/11: Uploaded "convnet" slides.
 - 10/28: Uploaded "nnNNN" slides and example.
 - 10/18: Uploaded "nnN11" slides and example.
-- 10/09: Uploaded "Image Processing" slides, updated assignment 2 link.
 
 
 # Syllabus
@@ -36,6 +36,7 @@ excerpt: >
 - [1014: NNN11 JupyterNotebook](https://github.com/linzhangUCA/3321example-nnN11.git)
 - [1021: NNNNN](/_docs/deep_learning-2024/1021/nnNNN.pdf)
 - [1023: NNNNN JupyterNotebook](https://github.com/linzhangUCA/3321example-nnNNN.git)
+- [1111: Convolutional Neural Network](/_docs/deep_learning-2024/1111/convnet.pdf)
 
 # Assignments
 1. [Linear Model](https://classroom.github.com/a/DGzH7Pk6)
