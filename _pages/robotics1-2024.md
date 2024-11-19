@@ -14,6 +14,7 @@ excerpt: >
   <small>Lectures/Labs: Tue/Thu 10:50 a.m. - 1:30 p.m., LSCA 105</small>
 ---
 # Latest Updates
+- 11/19: Uploaded communication slides and a5 link.
 - 11/05: Uploaded motor driver example code and "vision" slides.
 - 10/29: Uploaded encoder and kinematics slides.
 - 10/14: Updated assignment 4 and project 2 link.
@@ -33,12 +34,14 @@ excerpt: >
 - [1022: Kinematics](/_docs/robotics1-2024/1022/kinematics.pdf)
 - [1029: Example Motor Driving Code](https://github.com/linzhangUCA/3421example-motor_drivers)
 - [1105: Robotic Vision](/_docs/robotics1-2024/1105/vision.pdf)
+- [1119: Communication](/_docs/robotics1-2024/1119/comm.pdf)
 
 # Assignments
 1. [Build Robot Base](https://classroom.github.com/a/J1gLty8v)
 2. [Raspberry Pi Pico Practice](https://classroom.github.com/a/VQcXd_Iv)
 3. [Motor Test](https://classroom.github.com/a/9apGZMRE)
 4. [Wall Sensing](https://classroom.github.com/a/MRtWIxLi)
+5. [Trial Follower](https://classroom.github.com/a/uDp43j74)
 
 # Projects
 1. [Naive HMI](https://classroom.github.com/a/jYniyPtg)
