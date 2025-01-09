@@ -3,6 +3,9 @@ permalink: /courses/
 title: "Courses"
 toc: true
 ---
+## Spring 2025
+- [ENGR 4421 Robotics II](/robotics2-2025)
+
 ## Fall 2024
 - [ENGR 3421 Robotics I](/robotics1-2024)
 - [ENGR 3321 Introduction to Deep Learning for Robotics](/deep_learning-2024)
