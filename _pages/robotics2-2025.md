@@ -14,7 +14,7 @@ excerpt: >
   <small>Lectures/Labs: Tue/Thu 10:50 a.m. - 1:30 p.m., LSCA 105</small>
 ---
 # Latest Updates
-- 01/09: Create course page.
+- 01/09: Uploaded syllabus.
 
 
 # Syllabus
