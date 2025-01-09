@@ -46,3 +46,4 @@ excerpt: >
 # Projects
 1. [Naive HMI](https://classroom.github.com/a/jYniyPtg)
 2. [Wall Bouncer](https://classroom.github.com/a/UGxVkdJO)
+3. [Multi-Sensor Navigation](https://classroom.github.com/a/6rpdyl8z)
