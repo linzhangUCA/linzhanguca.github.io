@@ -14,15 +14,18 @@ excerpt: >
   <small>Lectures/Labs: Tue/Thu 10:50 a.m. - 1:30 p.m., LSCA 105</small>
 ---
 # Latest Updates
+
+- 01/13: Uploaded review slides.
 - 01/09: Uploaded syllabus.
 
-
 # Syllabus
+
 [Syllabus](/_docs/robotics2-2025/syllabus.pdf)
 
 # Lecture Slides
 
+- [0114: Review & Preview](/_docs/robotics2-2025/0114/review_preview.pdf)
+
 # Assignments
 
 # Projects
-
