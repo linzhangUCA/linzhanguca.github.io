@@ -15,7 +15,7 @@ excerpt: >
 ---
 # Latest Updates
 
-- 01/13: Uploaded review slides.
+- 01/14: Uploaded review and lidar slides.
 - 01/09: Uploaded syllabus.
 
 # Syllabus
@@ -25,6 +25,7 @@ excerpt: >
 # Lecture Slides
 
 - [0114: Review & Preview](/_docs/robotics2-2025/0114/review_preview.pdf)
+- [0114: LiDAR](/_docs/robotics2-2025/0114/lidar.pdf)
 
 # Assignments
 
