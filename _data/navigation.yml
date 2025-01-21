@@ -4,6 +4,8 @@ main:
     url: https://linzhanguca.github.io/
   - title: "COURSES"
     url: /courses/
+  - title: "PROJECTS"
+    url: /projects/
   - title: "CV"
     url: "/cv/"
   - title: "ABOUT"
