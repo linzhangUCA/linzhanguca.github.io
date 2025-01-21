@@ -28,5 +28,6 @@ excerpt: >
 - [0114: LiDAR](/_docs/robotics2-2025/0114/lidar.pdf)
 
 # Assignments
+1. [Lidar Scan](https://classroom.github.com/a/DjqqBwtK)
 
 # Projects
