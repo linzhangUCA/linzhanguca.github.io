@@ -15,6 +15,7 @@ excerpt: >
 ---
 # Latest Updates
 
+- 01/27: Uploaded pid slides and updated assignment 2 link.
 - 01/14: Uploaded review and lidar slides.
 - 01/09: Uploaded syllabus.
 
@@ -26,8 +27,11 @@ excerpt: >
 
 - [0114: Review & Preview](/_docs/robotics2-2025/0114/review_preview.pdf)
 - [0114: LiDAR](/_docs/robotics2-2025/0114/lidar.pdf)
+- [0123: PID Control](/_docs/robotics2-2025/0123/pid.pdf)
+  - [0123: PID Examples](https://github.com/linzhangUCA/4421example-pid.git)
 
 # Assignments
 1. [Lidar Scan](https://classroom.github.com/a/DjqqBwtK)
+2. [Sine Wave PID](https://classroom.github.com/a/5zLsMCZC)
 
 # Projects
