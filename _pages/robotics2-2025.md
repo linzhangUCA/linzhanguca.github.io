@@ -15,9 +15,9 @@ excerpt: >
 ---
 # Latest Updates
 
+- 02/10: Updated assignment 3 link.
 - 01/27: Uploaded pid slides and updated assignment 2 link.
 - 01/14: Uploaded review and lidar slides.
-- 01/09: Uploaded syllabus.
 
 # Syllabus
 
@@ -33,5 +33,6 @@ excerpt: >
 # Assignments
 1. [Lidar Scan](https://classroom.github.com/a/DjqqBwtK)
 2. [Sine Wave PID](https://classroom.github.com/a/5zLsMCZC)
+3. [Naive Odometry](https://classroom.github.com/a/R9LNWs9-)
 
 # Projects
