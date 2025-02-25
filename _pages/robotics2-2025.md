@@ -15,9 +15,9 @@ excerpt: >
 ---
 # Latest Updates
 
+- 02/25: Updated assignment 4 link and turtle bouncer example link.
 - 02/10: Updated assignment 3 link.
 - 01/27: Uploaded pid slides and updated assignment 2 link.
-- 01/14: Uploaded review and lidar slides.
 
 # Syllabus
 
@@ -29,10 +29,12 @@ excerpt: >
 - [0114: LiDAR](/_docs/robotics2-2025/0114/lidar.pdf)
 - [0123: PID Control](/_docs/robotics2-2025/0123/pid.pdf)
   - [0123: PID Examples](https://github.com/linzhangUCA/4421example-pid.git)
+- [0225: Turtle Bounce Example](https://github.com/linzhangUCA/4421example-turtle_bouncer.git)
 
 # Assignments
 1. [Lidar Scan](https://classroom.github.com/a/DjqqBwtK)
 2. [Sine Wave PID](https://classroom.github.com/a/5zLsMCZC)
 3. [Naive Odometry](https://classroom.github.com/a/R9LNWs9-)
+3. [Figure 8 Turtle](https://classroom.github.com/a/kAosNucA)
 
 # Projects
