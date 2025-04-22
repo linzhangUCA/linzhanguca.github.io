@@ -31,7 +31,9 @@ excerpt: >
   - [0123: PID Examples](https://github.com/linzhangUCA/4421example-pid.git)
 - [0225: ROS Publisher/Subscriber Example](https://github.com/linzhangUCA/4421example-turtle_bouncer.git)
 - [0311: ROS Transformations Example](https://github.com/linzhangUCA/4421example_tf)
-- [ROS Documentation](https://docs.ros.org/en/jazzy/index.html)
+- Resources
+  - [ROS Documentation](https://docs.ros.org/en/jazzy/index.html)
+  - [HomeR Documentation](https://linzhanguca.github.io/homer/)
 
 # Assignments
 1. [Lidar Scan](https://classroom.github.com/a/DjqqBwtK)
