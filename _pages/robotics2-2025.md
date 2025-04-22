@@ -15,9 +15,9 @@ excerpt: >
 ---
 # Latest Updates
 
+- 04/22: Updated assignment and project links.
 - 02/25: Updated assignment 4 link and turtle bouncer example link.
 - 02/10: Updated assignment 3 link.
-- 01/27: Uploaded pid slides and updated assignment 2 link.
 
 # Syllabus
 
@@ -35,6 +35,9 @@ excerpt: >
 1. [Lidar Scan](https://classroom.github.com/a/DjqqBwtK)
 2. [Sine Wave PID](https://classroom.github.com/a/5zLsMCZC)
 3. [Naive Odometry](https://classroom.github.com/a/R9LNWs9-)
-3. [Figure 8 Turtle](https://classroom.github.com/a/kAosNucA)
+4. [Figure 8 Turtle](https://classroom.github.com/a/kAosNucA)
+5. [ROS Odom](https://classroom.github.com/a/cGOzC79L)
 
 # Projects
+1. [Robot Set Up](https://classroom.github.com/a/DCYe9eRd)
+2. [The Odyssey](https://classroom.github.com/a/0JTx75wx)
