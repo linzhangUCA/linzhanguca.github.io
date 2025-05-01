@@ -31,6 +31,7 @@ excerpt: >
   - [0123: PID Examples](https://github.com/linzhangUCA/4421example-pid.git)
 - [0225: ROS Publisher/Subscriber Example](https://github.com/linzhangUCA/4421example-turtle_bouncer.git)
 - [0311: ROS Transformations Example](https://github.com/linzhangUCA/4421example_tf)
+- [0501: Past Present Future](/_docs/robotics2-2025/0501/past_present_future.pdf)
 - Resources
   - [ROS Documentation](https://docs.ros.org/en/jazzy/index.html)
   - [HomeR Documentation](https://linzhanguca.github.io/homer/)
