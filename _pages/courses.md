@@ -6,6 +6,7 @@ toc: true
 ## Fall 2025
 
 - [ENGR 3421 Robotics I](/robotics1-2025)
+- [ENGR 3321 Introduction to Deep Learning for Robotics](/deep_learning-2025)
 
 ## Spring 2025
 
