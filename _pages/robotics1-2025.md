@@ -15,7 +15,8 @@ excerpt: >
 ---
 # Latest Updates
 
-- 08/21: Created course page.
+- 08/25: Uploaded intro slides and update A1 link.
+- 08/21: Created course page and uploaded syllabus.
 
 # Syllabus
 
@@ -25,7 +26,10 @@ excerpt: >
 
 - 0821: Welcome
   - [Mobile base assembly guide](https://github.com/linzhangUCA/3421example-mobile_base)
+- [0826: Introduction](/_docs/robotics1-2025/0826/intro.pdf)
 
 # Assignments
+
+1. [Mobile Base](https://classroom.github.com/a/ri1JHXYh)
 
 # Projects
