@@ -15,6 +15,7 @@ excerpt: >
 ---
 # Latest Updates
 
+- 09/02: Update slides for Pico.
 - 08/28: Update materials for 08/28's class.
 - 08/25: Uploaded intro slides and update A1 link.
 - 08/21: Created course page and uploaded syllabus.
@@ -31,6 +32,7 @@ excerpt: >
 - [0828: Wheel Assembly Design](git@github.com:linzhangUCA/r1b_mechanical.git)
   - [Download N20 Micro Gearmotor 3D model](https://www.pololu.com/file/0J2042/Pololu%20Micro%20Metal%20Gearmotor%203D%20(STEP)%20Models.zip)
   - [Download N20 Micro Gearmotor Dimension Diagram](https://www.pololu.com/file/0J949/micro-metal-gearmotors-dimensions.pdf)
+- [0902: Raspberry Pi Pico](/_docs/robotics1-2025/0902/pico.pdf)
 
 # Assignments
 
