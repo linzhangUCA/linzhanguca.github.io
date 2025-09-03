@@ -15,6 +15,7 @@ excerpt: >
 ---
 # Latest Updates
 
+- 09/03: Uploaded NN101 slides and updated A1 link.
 - 08/25: Uploaded syllabus
 
 # Syllabus
@@ -24,7 +25,10 @@ excerpt: >
 # Lecture Slides & Notebooks
 
 - [0825: Introduction](/_docs/deep_learning-2025/0825/intro.pdf)
+- [0903: NN101](/_docs/deep_learning-2025/0903/nn101.pdf)
 
 # Assignments
+
+1. [Numpy Basics](https://classroom.github.com/a/_hl21Rk9)
 
 # Projects
