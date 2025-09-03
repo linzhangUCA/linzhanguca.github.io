@@ -15,10 +15,10 @@ excerpt: >
 ---
 # Latest Updates
 
-- 09/02: Update slides for Pico.
-- 08/28: Update materials for 08/28's class.
+- 09/03: Updated A2 link.
+- 09/02: Updated slides for Pico.
+- 08/28: Updated materials for 08/28's class.
 - 08/25: Uploaded intro slides and update A1 link.
-- 08/21: Created course page and uploaded syllabus.
 
 # Syllabus
 
@@ -37,5 +37,6 @@ excerpt: >
 # Assignments
 
 1. [Mobile Base](https://classroom.github.com/a/ri1JHXYh)
+2. [Pico Practice](https://classroom.github.com/a/K9da2jmn)
 
 # Projects
