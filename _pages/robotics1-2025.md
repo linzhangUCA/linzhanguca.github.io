@@ -15,10 +15,10 @@ excerpt: >
 ---
 # Latest Updates
 
+- 09/04: Fixed A2 link and added P1 link.
 - 09/03: Updated A2 link.
 - 09/02: Updated slides for Pico.
 - 08/28: Updated materials for 08/28's class.
-- 08/25: Uploaded intro slides and update A1 link.
 
 # Syllabus
 
@@ -37,6 +37,8 @@ excerpt: >
 # Assignments
 
 1. [Mobile Base](https://classroom.github.com/a/ri1JHXYh)
-2. [Pico Practice](https://classroom.github.com/a/K9da2jmn)
+2. [Pico Coding](https://classroom.github.com/a/MoSxkwc_)
 
 # Projects
+
+1. [Simple Human-Robot Interface](https://classroom.github.com/a/hwYqSgqz)
