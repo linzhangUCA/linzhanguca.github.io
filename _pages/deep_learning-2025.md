@@ -15,6 +15,7 @@ excerpt: >
 ---
 # Latest Updates
 
+- 09/08: Updated A2 and NN101 example links.
 - 09/03: Uploaded NN101 slides and updated A1 link.
 - 08/25: Uploaded syllabus
 
@@ -26,9 +27,11 @@ excerpt: >
 
 - [0825: Introduction](/_docs/deep_learning-2025/0825/intro.pdf)
 - [0903: NN101](/_docs/deep_learning-2025/0903/nn101.pdf)
+  - [NN101 Example](https://github.com/linzhangUCA/3321example-nn101.git)
 
 # Assignments
 
 1. [Numpy Basics](https://classroom.github.com/a/_hl21Rk9)
+2. [Linear Model](https://classroom.github.com/a/t6k6Leps)
 
 # Projects
