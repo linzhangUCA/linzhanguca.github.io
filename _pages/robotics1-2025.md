@@ -15,6 +15,7 @@ excerpt: >
 ---
 # Latest Updates
 
+- 09/09: Added 0909 class materials.
 - 09/04: Fixed A2 link and added P1 link.
 - 09/03: Updated A2 link.
 - 09/02: Updated slides for Pico.
@@ -33,6 +34,11 @@ excerpt: >
   - [Download N20 Micro Gearmotor 3D model](https://www.pololu.com/file/0J2042/Pololu%20Micro%20Metal%20Gearmotor%203D%20(STEP)%20Models.zip)
   - [Download N20 Micro Gearmotor Dimension Diagram](https://www.pololu.com/file/0J949/micro-metal-gearmotors-dimensions.pdf)
 - [0902: Raspberry Pi Pico](/_docs/robotics1-2025/0902/pico.pdf)
+- [0909: Motor Spin-Up](/_docs/robotics1-2025/0909/motor.pdf)
+  - [Dupont Connector Crimping Tutorial Video](https://youtu.be/jET1QTP1B7c?si=zO6iNCCy8uBFmRvz)
+  - [Motor Product Info](https://www.robotshop.com/products/e-s-motor-6v-1001-micro-metal-gearmotor-w-encoder-cable-150rpm?qd=90463b9daaf95d60f529422572c0d37f)
+  - [Motor Driver Carrier/Breakout Product Info](https://www.pololu.com/product/713)
+  - [TB6612FNG Datasheet](https://www.mouser.com/datasheet/3/1500/1/F0D259E3DA939F7F8987E2CA6B88096BB915688DC84214F86CA6F77BB2B982D9.pdf)
 
 # Assignments
 
