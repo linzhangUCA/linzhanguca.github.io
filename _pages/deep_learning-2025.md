@@ -28,10 +28,9 @@ excerpt: >
 
 - [0825: Introduction](/_docs/deep_learning-2025/0825/intro.pdf)
 - [0903: NN101](/_docs/deep_learning-2025/0903/nn101.pdf)
-  - [NN101 Example](https://github.com/linzhangUCA/3321example-nn101.git)
+  - [NN101 Example](https://github.com/linzhangUCA/3321example-nn101)
 - [0910: NN201](/_docs/deep_learning-2025/0910/nn201.pdf)
-  - [NN101 Example](https://github.com/linzhangUCA/3321example-nn201.git)
-
+  - [NN201 Example](https://github.com/linzhangUCA/3321example-nn201)
 
 # Assignments
 
