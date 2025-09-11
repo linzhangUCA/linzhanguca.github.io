@@ -15,11 +15,10 @@ excerpt: >
 ---
 # Latest Updates
 
+- 09/11: Added motor control example links.
 - 09/09: Added 0909 class materials.
 - 09/04: Fixed A2 link and added P1 link.
 - 09/03: Updated A2 link.
-- 09/02: Updated slides for Pico.
-- 08/28: Updated materials for 08/28's class.
 
 # Syllabus
 
@@ -39,6 +38,7 @@ excerpt: >
   - [Motor Product Info](https://www.robotshop.com/products/e-s-motor-6v-1001-micro-metal-gearmotor-w-encoder-cable-150rpm?qd=90463b9daaf95d60f529422572c0d37f)
   - [Motor Driver Carrier/Breakout Product Info](https://www.pololu.com/product/713)
   - [TB6612FNG Datasheet](https://www.mouser.com/datasheet/3/1500/1/F0D259E3DA939F7F8987E2CA6B88096BB915688DC84214F86CA6F77BB2B982D9.pdf)
+- [0911: Motor Driver Templates](https://github.com/linzhangUCA/3421example-motor_control)
 
 # Assignments
 
