@@ -15,6 +15,7 @@ excerpt: >
 ---
 # Latest Updates
 
+- 09/23: Uploaded Power Management slides and updated A3 link.
 - 09/11: Added motor control example links.
 - 09/09: Added 0909 class materials.
 - 09/04: Fixed A2 link and added P1 link.
@@ -39,11 +40,13 @@ excerpt: >
   - [Motor Driver Carrier/Breakout Product Info](https://www.pololu.com/product/713)
   - [TB6612FNG Datasheet](https://www.mouser.com/datasheet/3/1500/1/F0D259E3DA939F7F8987E2CA6B88096BB915688DC84214F86CA6F77BB2B982D9.pdf)
 - [0911: Motor Driver Templates](https://github.com/linzhangUCA/3421example-motor_control)
+- [0923: Power Management](/_docs/robotics1-2025/0923/power.pdf)
 
 # Assignments
 
 1. [Mobile Base](https://classroom.github.com/a/ri1JHXYh)
 2. [Pico Coding](https://classroom.github.com/a/MoSxkwc_)
+3. [Spin Motors](https://classroom.github.com/a/yjB0qu60)
 
 # Projects
 
