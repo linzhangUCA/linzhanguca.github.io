@@ -15,10 +15,10 @@ excerpt: >
 ---
 # Latest Updates
 
-- 09/17: Uploaded nnN11 slides and updated a3 link.
-- 09/17: Uploaded 0922 course materials.
+- 09/29: Uploaded nnN11 slides a3 link.
+- 09/22: Uploaded binary classification slides and examples link.
 - 09/17: Uploaded NNN01 slides
-- 09/10: Uploaded NN201 slides and updated NN201 example link.
+- 09/10: Uploaded NN201 slides and example link.
 
 # Syllabus
 
