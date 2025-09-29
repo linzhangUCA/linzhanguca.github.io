@@ -15,10 +15,10 @@ excerpt: >
 ---
 # Latest Updates
 
+- 09/17: Uploaded nnN11 slides and updated a3 link.
 - 09/17: Uploaded 0922 course materials.
 - 09/17: Uploaded NNN01 slides
 - 09/10: Uploaded NN201 slides and updated NN201 example link.
-- 09/08: Updated A2 and NN101 example links.
 
 # Syllabus
 
@@ -34,10 +34,13 @@ excerpt: >
 - [0917: NN-N01](/_docs/deep_learning-2025/0917/nnN01.pdf)
 - [0922: Binary Classification](/_docs/deep_learning-2025/0922/binary_classification.pdf)
   - [Binary Classification Examples](https://github.com/linzhangUCA/3321example-binary_classification)
+- [0929: NN-N11](/_docs/deep_learning-2025/0929/nnN11.pdf)
+  - [Binary Classification Examples](https://github.com/linzhangUCA/3321example-binary_classification)
 
 # Assignments
 
 1. [Numpy Basics](https://classroom.github.com/a/_hl21Rk9)
 2. [Linear Model](https://classroom.github.com/a/t6k6Leps)
+3. [Binary Logistic Regression](https://classroom.github.com/a/H19dWhA4)
 
 # Projects
