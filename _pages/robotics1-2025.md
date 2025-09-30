@@ -15,6 +15,7 @@ excerpt: >
 ---
 # Latest Updates
 
+- 09/30: Updated A4 link and mobile base design repository link.
 - 09/25: Uploaded Ultrasonic Sensor slides and examples link.
 - 09/23: Uploaded Power Management slides and updated A3 link.
 - 09/11: Added motor control example links.
@@ -43,11 +44,14 @@ excerpt: >
 - [0925: Ultrasonic Distance Sensor](/_docs/robotics1-2025/0925/ultrasonic.pdf)
   - [HC-SR04 examples](https://github.com/linzhangUCA/3421example-ultrasonic_sensor)
 
+- [0930: Mobile Base Design](https://github.com/linzhangUCA/3421example-base_design)
+
 # Assignments
 
 1. [Mobile Base](https://classroom.github.com/a/ri1JHXYh)
 2. [Pico Coding](https://classroom.github.com/a/MoSxkwc_)
 3. [Spin Motors](https://classroom.github.com/a/yjB0qu60)
+4. [Sense Distance](https://classroom.github.com/a/91AczXxy)
 
 # Projects
 
