@@ -42,10 +42,9 @@ excerpt: >
 - [0923: Power Management](/_docs/robotics1-2025/0923/power.pdf)
 - [0925: Ultrasonic Distance Sensor](/_docs/robotics1-2025/0925/ultrasonic.pdf)
   - [HC-SR04 examples](https://github.com/linzhangUCA/3421example-ultrasonic_sensor)
+- [0930: Mobile Base Design](https://github.com/linzhangUCA/3421example-base_design)
 - [1007: Encoder](/_docs/robotics1-2025/1007/encoder.pdf)
   - [Encoder coding examples](https://github.com/linzhangUCA/3421example-motor_control)
-
-- [0930: Mobile Base Design](https://github.com/linzhangUCA/3421example-base_design)
 
 # Assignments
 
