@@ -15,10 +15,10 @@ excerpt: >
 ---
 # Latest Updates
 
+- 10/07: Uploaded encoder slides and example link.
 - 09/30: Updated A4 link and mobile base design repository link.
 - 09/25: Uploaded Ultrasonic Sensor slides and examples link.
 - 09/23: Uploaded Power Management slides and updated A3 link.
-- 09/11: Added motor control example links.
 
 # Syllabus
 
