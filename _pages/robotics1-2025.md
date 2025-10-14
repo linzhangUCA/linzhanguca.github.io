@@ -15,10 +15,10 @@ excerpt: >
 ---
 # Latest Updates
 
+- 10/14: Uploaded Kinematics slides.
 - 10/07: Uploaded encoder slides and example link.
 - 09/30: Updated A4 link and mobile base design repository link.
 - 09/25: Uploaded Ultrasonic Sensor slides and examples link.
-- 09/23: Uploaded Power Management slides and updated A3 link.
 
 # Syllabus
 
@@ -45,6 +45,7 @@ excerpt: >
 - [0930: Mobile Base Design](https://github.com/linzhangUCA/3421example-base_design)
 - [1007: Encoder](/_docs/robotics1-2025/1007/encoder.pdf)
   - [Encoder coding examples](https://github.com/linzhangUCA/3421example-motor_control)
+- [1014: Kinematics](/_docs/robotics1-2025/1014/Kinematics.pdf)
 
 # Assignments
 
@@ -56,3 +57,4 @@ excerpt: >
 # Projects
 
 1. [Simple Human-Robot Interface](https://classroom.github.com/a/hwYqSgqz)
+2. [Wall Bouncer](https://classroom.github.com/a/LMWu6GmP)
