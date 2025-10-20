@@ -15,10 +15,10 @@ excerpt: >
 ---
 # Latest Updates
 
+- 10/20: Uploaded nnNNN slides and example link
 - 10/08: Uploaded nnNN1 slides and a4 link.
 - 09/29: Uploaded nnN11 slides a3 link.
 - 09/22: Uploaded binary classification slides and examples link.
-- 09/17: Uploaded NNN01 slides
 
 # Syllabus
 
@@ -37,6 +37,8 @@ excerpt: >
 - [0929: NN-N11](/_docs/deep_learning-2025/0929/nnN11.pdf)
   - [Binary Classification Examples](https://github.com/linzhangUCA/3321example-binary_classification)
 - [1006: NN-NN1](/_docs/deep_learning-2025/1006/nnNN1.pdf)
+- [1013: Multi-Layer Perceptron (NN-NNN)](/_docs/deep_learning-2025/1013/nnNNN.pdf)
+  - [Multi-Layer Perceptron Example](https://github.com/linzhangUCA/3321example-cat_vs_dog-mlp.git)
 
 # Assignments
 
