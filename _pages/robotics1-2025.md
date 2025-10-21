@@ -15,10 +15,10 @@ excerpt: >
 ---
 # Latest Updates
 
+- 10/21: Uploaded a5 link.
 - 10/14: Uploaded Kinematics slides.
 - 10/07: Uploaded encoder slides and example link.
 - 09/30: Updated A4 link and mobile base design repository link.
-- 09/25: Uploaded Ultrasonic Sensor slides and examples link.
 
 # Syllabus
 
@@ -53,6 +53,7 @@ excerpt: >
 2. [Pico Coding](https://classroom.github.com/a/MoSxkwc_)
 3. [Spin Motors](https://classroom.github.com/a/yjB0qu60)
 4. [Sense Distance](https://classroom.github.com/a/91AczXxy)
+5. [Follow Trail](https://classroom.github.com/a/1_wnOXgh)
 
 # Projects
 
