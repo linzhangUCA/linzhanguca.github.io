@@ -45,7 +45,7 @@ excerpt: >
 - [0930: Mobile Base Design](https://github.com/linzhangUCA/3421example-base_design)
 - [1007: Encoder](/_docs/robotics1-2025/1007/encoder.pdf)
   - [Encoder coding examples](https://github.com/linzhangUCA/3421example-motor_control)
-- [1014: Kinematics](/_docs/robotics1-2025/1014/Kinematics.pdf)
+- [1014: Kinematics](/_docs/robotics1-2025/1014/kinematics.pdf)
 
 # Assignments
 
