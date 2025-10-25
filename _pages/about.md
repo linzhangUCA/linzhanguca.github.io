@@ -9,6 +9,7 @@ last_modified_at: 2022-02-04T11:48:50-06:00
 toc: false
 ---
 
-I joined University of Central Arkansas in 2021. I am currently serving as an Assistant Professor in the [Department of Physics and Astronomy](https://uca.edu/physics/). Previously, I was a Sr. Research Associate in [IRAS Lab](https://irasatuc.github.io/) at University of Cincinnati.
+I joined University of Central Arkansas in 2021. I am currently serving as an Assistant Professor in the [Department of Physics, Astronomy, and Engineering](https://uca.edu/physics/). Previously, I was a Sr. Research Associate in [IRAS Lab](https://ceas.uc.edu/research/centers-labs/intelligent-robotics-and-autonomous-systems-laboratory.html) at University of Cincinnati.
 
-For more details, please see my [CV](/cv/). 
+For more details, please see my [CV](/cv/).
+
