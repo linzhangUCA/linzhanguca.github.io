@@ -15,10 +15,10 @@ excerpt: >
 ---
 # Latest Updates
 
+- 11/06: Uploaded pid slides.
 - 10/21: Uploaded a5 link.
 - 10/14: Uploaded Kinematics slides.
 - 10/07: Uploaded encoder slides and example link.
-- 09/30: Updated A4 link and mobile base design repository link.
 
 # Syllabus
 
@@ -46,6 +46,7 @@ excerpt: >
 - [1007: Encoder](/_docs/robotics1-2025/1007/encoder.pdf)
   - [Encoder coding examples](https://github.com/linzhangUCA/3421example-motor_control)
 - [1014: Kinematics](/_docs/robotics1-2025/1014/kinematics.pdf)
+- [1028: PID Control](/_docs/robotics1-2025/1028/pid.pdf)
 
 # Assignments
 
