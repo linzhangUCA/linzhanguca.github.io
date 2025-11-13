@@ -15,10 +15,10 @@ excerpt: >
 ---
 # Latest Updates
 
+- 11/13: Updated a6 link and pcb design links.
 - 11/06: Uploaded pid slides.
 - 10/21: Uploaded a5 link.
 - 10/14: Uploaded Kinematics slides.
-- 10/07: Uploaded encoder slides and example link.
 
 # Syllabus
 
@@ -47,6 +47,8 @@ excerpt: >
   - [Encoder coding examples](https://github.com/linzhangUCA/3421example-motor_control)
 - [1014: Kinematics](/_docs/robotics1-2025/1014/kinematics.pdf)
 - [1028: PID Control](/_docs/robotics1-2025/1028/pid.pdf)
+- [1111: PCB Workshop](https://youtu.be/vLnu21fS22s?si=q8kp3gNoHeyCQX4N)
+  - [Motor control board example](https://github.com/linzhangUCA/r1b_electrical)
 
 # Assignments
 
@@ -55,6 +57,7 @@ excerpt: >
 3. [Spin Motors](https://classroom.github.com/a/yjB0qu60)
 4. [Sense Distance](https://classroom.github.com/a/91AczXxy)
 5. [Follow Trail](https://classroom.github.com/a/1_wnOXgh)
+5. [Tune Controller](https://classroom.github.com/a/jTL52pJM)
 
 # Projects
 
