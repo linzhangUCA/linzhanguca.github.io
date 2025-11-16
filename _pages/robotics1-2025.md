@@ -15,10 +15,12 @@ excerpt: >
 ---
 # Latest Updates
 
+- 11/16:
+  - Uploaded a7 link.
+  - Added mechanical, eletrical and coding resources.
 - 11/13: Updated a6 link and pcb design links.
 - 11/06: Uploaded pid slides.
 - 10/21: Uploaded a5 link.
-- 10/14: Uploaded Kinematics slides.
 
 # Syllabus
 
@@ -50,6 +52,12 @@ excerpt: >
 - [1111: PCB Workshop](https://youtu.be/vLnu21fS22s?si=q8kp3gNoHeyCQX4N)
   - [Motor control board example](https://github.com/linzhangUCA/r1b_electrical)
 
+# Resources
+
+- [Mechanical Design](https://github.com/linzhangUCA/r1b_mechanical)
+- [Electrical Layout](https://github.com/linzhangUCA/r1b_electrical)
+- [Control Logic](https://github.com/linzhangUCA/r1b_control)
+
 # Assignments
 
 1. [Mobile Base](https://classroom.github.com/a/ri1JHXYh)
@@ -57,7 +65,8 @@ excerpt: >
 3. [Spin Motors](https://classroom.github.com/a/yjB0qu60)
 4. [Sense Distance](https://classroom.github.com/a/91AczXxy)
 5. [Follow Trail](https://classroom.github.com/a/1_wnOXgh)
-5. [Tune Controller](https://classroom.github.com/a/jTL52pJM)
+6. [Tune Controller](https://classroom.github.com/a/jTL52pJM)
+7. [Track Trajectory](https://classroom.github.com/a/fH6WxS7d)
 
 # Projects
 
