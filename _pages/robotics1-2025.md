@@ -15,6 +15,7 @@ excerpt: >
 ---
 # Latest Updates
 
+- 11/21: Updated final project link.
 - 11/16:
   - Uploaded a7 link.
   - Added mechanical, eletrical and coding resources.
@@ -72,3 +73,4 @@ excerpt: >
 
 1. [Simple Human-Robot Interface](https://classroom.github.com/a/hwYqSgqz)
 2. [Wall Bouncer](https://classroom.github.com/a/LMWu6GmP)
+3. [Lab Rover](https://classroom.github.com/a/96OtuQyX)
