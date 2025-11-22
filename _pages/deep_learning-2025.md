@@ -15,6 +15,10 @@ excerpt: >
 ---
 # Latest Updates
 
+- 11/21:
+  - Updated NN video link.
+  - Updated A6 link.
+  - Updated Final Project link.
 - 11/10: Uploaded convnet slides and updated a5 link.
 - 10/20: Uploaded nnNNN slides and example link
 - 10/08: Uploaded nnNN1 slides and a4 link.
@@ -41,6 +45,7 @@ excerpt: >
 - [1013: Multi-Layer Perceptron (NN-NNN)](/_docs/deep_learning-2025/1013/nnNNN.pdf)
   - [Multi-Layer Perceptron Example](https://github.com/linzhangUCA/3321example-cat_vs_dog-mlp.git)
 - [1110: Convolutional Neural Network](/_docs/deep_learning-2025/1110/convnet.pdf)
+- [1117: 3B1B Neural Networks Video Series](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=0v198GCuO2IOqlsq)
 
 # Assignments
 
@@ -49,7 +54,8 @@ excerpt: >
 3. [Binary Logistic Regression](https://classroom.github.com/a/H19dWhA4)
 4. [Cat VS Dog]()
 5. [Multi-Layer Perceptron](https://classroom.github.com/a/AxkNv8S2)
+6. [Convolutional Neural Network](https://classroom.github.com/a/suraBVT7)
 
 # Project
 
-Final Project: Autonomous Pilot
+[Final Project: Deep Learning Autopilot](https://classroom.github.com/a/YBheRdFy)
