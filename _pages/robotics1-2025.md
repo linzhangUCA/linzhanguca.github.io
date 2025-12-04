@@ -15,13 +15,12 @@ excerpt: >
 ---
 # Latest Updates
 
+- 12/04: Updated R1Bot documentation page link.
 - 11/21: Updated final project link.
 - 11/16:
   - Uploaded a7 link.
   - Added mechanical, eletrical and coding resources.
 - 11/13: Updated a6 link and pcb design links.
-- 11/06: Uploaded pid slides.
-- 10/21: Uploaded a5 link.
 
 # Syllabus
 
@@ -55,6 +54,7 @@ excerpt: >
 
 # Resources
 
+- [R1Bot Documentation](https://linzhanguca.github.io/r1b_doc/)
 - [Mechanical Design](https://github.com/linzhangUCA/r1b_mechanical)
 - [Electrical Layout](https://github.com/linzhangUCA/r1b_electrical)
 - [Control Logic](https://github.com/linzhangUCA/r1b_control)
