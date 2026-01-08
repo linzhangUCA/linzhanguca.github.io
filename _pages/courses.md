@@ -3,6 +3,10 @@ permalink: /courses/
 title: "Courses"
 toc: true
 ---
+## Spring 2026
+
+- [ENGR 4421 Robotics II](/robotics2-2026)
+
 ## Fall 2025
 
 - [ENGR 3421 Robotics I](/robotics1-2025)
