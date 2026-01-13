@@ -13,22 +13,30 @@ header:
 excerpt: >
   <small>Lectures/Labs: Tue/Thu 10:50 a.m. - 1:30 p.m., LSCA 105</small>
 ---
-# Latest Updates
+# Robotics 2, Spring 2026
 
+## Latest Updates
+
+- 01/13: Updated class 1 related.
 - 01/08: Uploaded syllabus
 
-# Syllabus
+## Syllabus
 
 [Syllabus](/_docs/robotics2-2026/syllabus.pdf)
 
-# Classes
+## Classes
+- 0113: ROS2 Installation
+  - [ROS Jazzy Deb Packages Installation Guide](https://docs.ros.org/en/jazzy/Installation/Ubuntu-Install-Debs.html)
+  - [ROS Environment Configuration](https://docs.ros.org/en/jazzy/Tutorials/Beginner-CLI-Tools/Configuring-ROS2-Environment.html)
 
 
-# Resources
+## Resources
+[The Linux command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
+[ROS2 Cheat Sheet](https://github.com/ubuntu-robotics/ros2_cheats_sheet/blob/master/cli/cli_cheats_sheet.pdf)
+
+## Assignments
 
 
-# Assignments
-
-
-# Projects
+## Projects
+1. [First ROS Package](https://classroom.github.com/a/Prk-OBLE)
 
