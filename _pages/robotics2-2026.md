@@ -28,6 +28,8 @@ excerpt: >
 - 0113: ROS2 Installation
   - [ROS Jazzy Deb Packages Installation Guide](https://docs.ros.org/en/jazzy/Installation/Ubuntu-Install-Debs.html)
   - [ROS Environment Configuration](https://docs.ros.org/en/jazzy/Tutorials/Beginner-CLI-Tools/Configuring-ROS2-Environment.html)
+- 0115: Serial Communication
+  - [USB communication example](https://github.com/linzhangUCA/3421example-usb_communication)
 
 
 ## Resources
@@ -35,7 +37,7 @@ excerpt: >
 [ROS2 Cheat Sheet](https://github.com/ubuntu-robotics/ros2_cheats_sheet/blob/master/cli/cli_cheats_sheet.pdf)
 
 ## Assignments
-
+1. [Chat with Pico](https://classroom.github.com/a/DDX-qQE9)
 
 ## Projects
 1. [First ROS Package](https://classroom.github.com/a/Prk-OBLE)
