@@ -17,6 +17,7 @@ excerpt: >
 
 ## Latest Updates
 
+- 01/20: Updated class 3 related and HomeR documentation link.
 - 01/13: Updated class 1 related.
 - 01/08: Uploaded syllabus
 
@@ -25,20 +26,32 @@ excerpt: >
 [Syllabus](/_docs/robotics2-2026/syllabus.pdf)
 
 ## Classes
-- 0113: ROS2 Installation
-  - [ROS Jazzy Deb Packages Installation Guide](https://docs.ros.org/en/jazzy/Installation/Ubuntu-Install-Debs.html)
-  - [ROS Environment Configuration](https://docs.ros.org/en/jazzy/Tutorials/Beginner-CLI-Tools/Configuring-ROS2-Environment.html)
-- 0115: Serial Communication
-  - [USB communication example](https://github.com/linzhangUCA/3421example-usb_communication)
 
+1. 0113: ROS2 Installation
+
+- [ROS Jazzy Deb Packages Installation Guide](https://docs.ros.org/en/jazzy/Installation/Ubuntu-Install-Debs.html)
+- [ROS Environment Configuration](https://docs.ros.org/en/jazzy/Tutorials/Beginner-CLI-Tools/Configuring-ROS2-Environment.html)
+
+2. 0115: Serial Communication
+
+- [USB communication example](https://github.com/linzhangUCA/3421example-usb_communication)
+
+3. 0120: ROS2 Core Concepts
+
+- [Using `turtlesim`](https://docs.ros.org/en/jazzy/Tutorials/Beginner-CLI-Tools/Introducing-Turtlesim/Introducing-Turtlesim.html)
+- [Understanding Nodes](https://docs.ros.org/en/jazzy/Tutorials/Beginner-CLI-Tools/Understanding-ROS2-Nodes/Understanding-ROS2-Nodes.html)
+- [Understanding Topics](https://docs.ros.org/en/jazzy/Tutorials/Beginner-CLI-Tools/Understanding-ROS2-Topics/Understanding-ROS2-Topics.html)
 
 ## Resources
-[The Linux command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
-[ROS2 Cheat Sheet](https://github.com/ubuntu-robotics/ros2_cheats_sheet/blob/master/cli/cli_cheats_sheet.pdf)
+
+- For details of HomeR, please read the [documentation](linzhanguca.github.io/homer_docs).
+- Read [The Linux command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview) tutorial for basic usage of Linux commands.
+- [ROS2 Cheat Sheet](https://github.com/ubuntu-robotics/ros2_cheats_sheet/blob/master/cli/cli_cheats_sheet.pdf)
 
 ## Assignments
+
 1. [Chat with Pico](https://classroom.github.com/a/DDX-qQE9)
 
 ## Projects
-1. [First ROS Package](https://classroom.github.com/a/Prk-OBLE)
 
+1. [First ROS Package](https://classroom.github.com/a/Prk-OBLE)
