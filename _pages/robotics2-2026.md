@@ -17,13 +17,16 @@ excerpt: >
 
 ## Latest Updates
 
+- 01/22: Updated class 4 related and A2 link.
 - 01/20: Updated class 3 related and HomeR documentation link.
 - 01/13: Updated class 1 related.
 - 01/08: Uploaded syllabus
 
+
 ## Syllabus
 
 [Syllabus](/_docs/robotics2-2026/syllabus.pdf)
+
 
 ## Classes
 
@@ -42,15 +45,22 @@ excerpt: >
 - [Understanding Nodes](https://docs.ros.org/en/jazzy/Tutorials/Beginner-CLI-Tools/Understanding-ROS2-Nodes/Understanding-ROS2-Nodes.html)
 - [Understanding Topics](https://docs.ros.org/en/jazzy/Tutorials/Beginner-CLI-Tools/Understanding-ROS2-Topics/Understanding-ROS2-Topics.html)
 
+4. 0122: [Writing a simple publisher and subscriber (Python)](https://docs.ros.org/en/jazzy/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Py-Publisher-And-Subscriber.html)
+- [Minimal Publisher Example](https://github.com/ros2/examples/blob/jazzy/rclpy/topics/minimal_publisher/examples_rclpy_minimal_publisher/publisher_member_function.py)
+
+- [Minimal Subscriber Example](https://github.com/ros2/examples/blob/jazzy/rclpy/topics/minimal_subscriber/examples_rclpy_minimal_subscriber/subscriber_member_function.py)
+
+
 ## Resources
 
-- For details of HomeR, please read the [documentation](linzhanguca.github.io/homer_docs).
+- HomeR [documentation](https://linzhanguca.github.io/homer_docs).
 - Read [The Linux command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview) tutorial for basic usage of Linux commands.
 - [ROS2 Cheat Sheet](https://github.com/ubuntu-robotics/ros2_cheats_sheet/blob/master/cli/cli_cheats_sheet.pdf)
 
 ## Assignments
 
 1. [Chat with Pico](https://classroom.github.com/a/DDX-qQE9)
+2. [Figure8 Turtle](https://classroom.github.com/a/a4Gqehwo)
 
 ## Projects
 
