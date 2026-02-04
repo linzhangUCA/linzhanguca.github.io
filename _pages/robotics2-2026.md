@@ -17,16 +17,14 @@ excerpt: >
 
 ## Latest Updates
 
+- 02/04: Updated class 5 links and assignments' due date.
 - 01/22: Updated class 4 related and A2 link.
 - 01/20: Updated class 3 related and HomeR documentation link.
 - 01/13: Updated class 1 related.
-- 01/08: Uploaded syllabus
-
 
 ## Syllabus
 
 [Syllabus](/_docs/robotics2-2026/syllabus.pdf)
-
 
 ## Classes
 
@@ -47,9 +45,12 @@ excerpt: >
 
 - 0122: [Writing a simple publisher and subscriber (Python)](https://docs.ros.org/en/jazzy/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Py-Publisher-And-Subscriber.html)
   - [Minimal Publisher Example](https://github.com/ros2/examples/blob/jazzy/rclpy/topics/minimal_publisher/examples_rclpy_minimal_publisher/publisher_member_function.py)
-
   - [Minimal Subscriber Example](https://github.com/ros2/examples/blob/jazzy/rclpy/topics/minimal_subscriber/examples_rclpy_minimal_subscriber/subscriber_member_function.py)
 
+- 0203: Managing ROS2 Packages
+  - [Creating A Workspace](https://docs.ros.org/en/jazzy/Tutorials/Beginner-Client-Libraries/Creating-A-Workspace/Creating-A-Workspace.html)
+  - [Creating A ROS2 Package](https://docs.ros.org/en/jazzy/Tutorials/Beginner-Client-Libraries/Creating-Your-First-ROS2-Package.html)
+  - [Build Packages](https://docs.ros.org/en/jazzy/Tutorials/Beginner-Client-Libraries/Colcon-Tutorial.html)
 
 ## Resources
 
@@ -59,9 +60,9 @@ excerpt: >
 
 ## Assignments
 
-1. [Chat with Pico](https://classroom.github.com/a/DDX-qQE9)
-2. [Figure8 Turtle](https://classroom.github.com/a/a4Gqehwo)
+1. [Chat with Pico](https://classroom.github.com/a/DDX-qQE9), **due: 02/22**
+2. [Figure8 Turtle](https://classroom.github.com/a/a4Gqehwo), **due: 03/08**
 
 ## Projects
 
-1. [First ROS Package](https://classroom.github.com/a/Prk-OBLE)
+1. [First ROS Package](https://classroom.github.com/a/Prk-OBLE). **Demo day: 02/12**
