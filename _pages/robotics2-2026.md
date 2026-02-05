@@ -17,10 +17,10 @@ excerpt: >
 
 ## Latest Updates
 
-- 02/04: Updated class 5 links and assignments' due date.
-- 01/22: Updated class 4 related and A2 link.
-- 01/20: Updated class 3 related and HomeR documentation link.
-- 01/13: Updated class 1 related.
+- 02/05: Updated class 6 related links
+- 02/04: Updated class 5 related links and assignments' due date.
+- 01/22: Updated class 4 and A2 related links.
+- 01/20: Updated class 3 and HomeR documentation related links.
 
 ## Syllabus
 
@@ -51,6 +51,10 @@ excerpt: >
   - [Creating A Workspace](https://docs.ros.org/en/jazzy/Tutorials/Beginner-Client-Libraries/Creating-A-Workspace/Creating-A-Workspace.html)
   - [Creating A ROS2 Package](https://docs.ros.org/en/jazzy/Tutorials/Beginner-Client-Libraries/Creating-Your-First-ROS2-Package.html)
   - [Build Packages](https://docs.ros.org/en/jazzy/Tutorials/Beginner-Client-Libraries/Colcon-Tutorial.html)
+
+- 0205: ROS2 Launch
+  - [Launching Nodes](https://docs.ros.org/en/jazzy/Tutorials/Beginner-CLI-Tools/Launching-Multiple-Nodes/Launching-Multiple-Nodes.html)
+  - [Launch Tutorials](https://docs.ros.org/en/jazzy/Tutorials/Intermediate/Launch/Launch-Main.html)
 
 ## Resources
 
