@@ -17,10 +17,10 @@ excerpt: >
 
 ## Latest Updates
 
-- 02/05: Updated class 6 related links
+- 02/18: Updated class 7 and p2 links.
+- 02/05: Updated class 6 related links.
 - 02/04: Updated class 5 related links and assignments' due date.
 - 01/22: Updated class 4 and A2 related links.
-- 01/20: Updated class 3 and HomeR documentation related links.
 
 ## Syllabus
 
@@ -56,6 +56,11 @@ excerpt: >
   - [Launching Nodes](https://docs.ros.org/en/jazzy/Tutorials/Beginner-CLI-Tools/Launching-Multiple-Nodes/Launching-Multiple-Nodes.html)
   - [Launch Tutorials](https://docs.ros.org/en/jazzy/Tutorials/Intermediate/Launch/Launch-Main.html)
 
+- 0217: Frame Transformations
+  - [Introducing `tf2`](https://docs.ros.org/en/jazzy/Tutorials/Intermediate/Tf2/Introduction-To-Tf2.html)
+  - [Proper way to publish static transforms](https://docs.ros.org/en/jazzy/Tutorials/Intermediate/Tf2/Writing-A-Tf2-Static-Broadcaster-Py.html#the-proper-way-to-publish-static-transforms)
+  - [Writing a broadcaster](https://docs.ros.org/en/jazzy/Tutorials/Intermediate/Tf2/Writing-A-Tf2-Broadcaster-Py.html)
+
 ## Resources
 
 - HomeR [documentation](https://linzhanguca.github.io/homer_docs).
@@ -70,3 +75,4 @@ excerpt: >
 ## Projects
 
 1. [First ROS Package](https://classroom.github.com/a/Prk-OBLE). **Demo day: 02/12**
+2. [ROS Rover](https://classroom.github.com/a/bB9iZ9df). **Demo due date: 03/19**
