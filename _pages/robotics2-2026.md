@@ -17,10 +17,10 @@ excerpt: >
 
 ## Latest Updates
 
+- 02/24: Updated class 8, 9 slides and a3 link.
 - 02/18: Updated class 7 and p2 links.
 - 02/05: Updated class 6 related links.
 - 02/04: Updated class 5 related links and assignments' due date.
-- 01/22: Updated class 4 and A2 related links.
 
 ## Syllabus
 
@@ -61,6 +61,12 @@ excerpt: >
   - [Proper way to publish static transforms](https://docs.ros.org/en/jazzy/Tutorials/Intermediate/Tf2/Writing-A-Tf2-Static-Broadcaster-Py.html#the-proper-way-to-publish-static-transforms)
   - [Writing a broadcaster](https://docs.ros.org/en/jazzy/Tutorials/Intermediate/Tf2/Writing-A-Tf2-Broadcaster-Py.html)
 
+- 0219: Quaternion
+  - [Quaternion and 3D Rotation Explained](https://www.youtube.com/watch?v=zjMuIxRvygQ)
+
+- 0224: LiDAR
+  - [LiDAR](/_docs/robotics2-2026/0224/lidar.pdf)
+
 ## Resources
 
 - HomeR [documentation](https://linzhanguca.github.io/homer_docs).
@@ -69,8 +75,9 @@ excerpt: >
 
 ## Assignments
 
-1. [Chat with Pico](https://classroom.github.com/a/DDX-qQE9), **due: 02/22**
-2. [Figure8 Turtle](https://classroom.github.com/a/a4Gqehwo), **due: 03/08**
+1. [Chat with Pico](https://classroom.github.com/a/DDX-qQE9), **due: 03/01/26**
+2. [Figure8 Turtle](https://classroom.github.com/a/a4Gqehwo), **due: 03/08/26**
+3. [Figure8 HomeR](https://classroom.github.com/a/1dyzZm3y), **due: 03/29/26**
 
 ## Projects
 
