@@ -17,10 +17,10 @@ excerpt: >
 
 ## Latest Updates
 
+- 03/08: Updated class 10 example code link.
 - 02/24: Updated class 8, 9 slides and a3 link.
 - 02/18: Updated class 7 and p2 links.
 - 02/05: Updated class 6 related links.
-- 02/04: Updated class 5 related links and assignments' due date.
 
 ## Syllabus
 
@@ -66,6 +66,9 @@ excerpt: >
 
 - 0224: LiDAR
   - [LiDAR](/_docs/robotics2-2026/0224/lidar.pdf)
+
+- 0226: IMU
+  - [example code](https://github.com/linzhangUCA/homer_pico/blob/main/upython_scripts/perception/imu.py)
 
 ## Resources
 
