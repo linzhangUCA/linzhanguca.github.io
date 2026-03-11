@@ -17,10 +17,10 @@ excerpt: >
 
 ## Latest Updates
 
+- 03/11: Updated class 11 slides and example link.
 - 03/08: Updated class 10 example code link.
 - 02/24: Updated class 8, 9 slides and a3 link.
 - 02/18: Updated class 7 and p2 links.
-- 02/05: Updated class 6 related links.
 
 ## Syllabus
 
@@ -28,47 +28,49 @@ excerpt: >
 
 ## Classes
 
-- 0113: ROS2 Installation
+- 0113: Class 1 - ROS2 Installation
 
   - [ROS Jazzy Deb Packages Installation Guide](https://docs.ros.org/en/jazzy/Installation/Ubuntu-Install-Debs.html)
   - [ROS Environment Configuration](https://docs.ros.org/en/jazzy/Tutorials/Beginner-CLI-Tools/Configuring-ROS2-Environment.html)
 
-- 0115: Serial Communication
+- 0115: Class 2 - Serial Communication
 
   - [USB communication example](https://github.com/linzhangUCA/3421example-usb_communication)
 
-- 0120: ROS2 Core Concepts
+- 0120: Class 3 - ROS2 Core Concepts
 
   - [Using `turtlesim`](https://docs.ros.org/en/jazzy/Tutorials/Beginner-CLI-Tools/Introducing-Turtlesim/Introducing-Turtlesim.html)
   - [Understanding Nodes](https://docs.ros.org/en/jazzy/Tutorials/Beginner-CLI-Tools/Understanding-ROS2-Nodes/Understanding-ROS2-Nodes.html)
   - [Understanding Topics](https://docs.ros.org/en/jazzy/Tutorials/Beginner-CLI-Tools/Understanding-ROS2-Topics/Understanding-ROS2-Topics.html)
 
-- 0122: [Writing a simple publisher and subscriber (Python)](https://docs.ros.org/en/jazzy/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Py-Publisher-And-Subscriber.html)
+- 0122: Class 4 - [Writing a simple publisher and subscriber (Python)](https://docs.ros.org/en/jazzy/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Py-Publisher-And-Subscriber.html)
   - [Minimal Publisher Example](https://github.com/ros2/examples/blob/jazzy/rclpy/topics/minimal_publisher/examples_rclpy_minimal_publisher/publisher_member_function.py)
   - [Minimal Subscriber Example](https://github.com/ros2/examples/blob/jazzy/rclpy/topics/minimal_subscriber/examples_rclpy_minimal_subscriber/subscriber_member_function.py)
 
-- 0203: Managing ROS2 Packages
+- 0203: Class 5 - Managing ROS2 Packages
   - [Creating A Workspace](https://docs.ros.org/en/jazzy/Tutorials/Beginner-Client-Libraries/Creating-A-Workspace/Creating-A-Workspace.html)
   - [Creating A ROS2 Package](https://docs.ros.org/en/jazzy/Tutorials/Beginner-Client-Libraries/Creating-Your-First-ROS2-Package.html)
   - [Build Packages](https://docs.ros.org/en/jazzy/Tutorials/Beginner-Client-Libraries/Colcon-Tutorial.html)
 
-- 0205: ROS2 Launch
+- 0205: Class 6 - ROS2 Launch
   - [Launching Nodes](https://docs.ros.org/en/jazzy/Tutorials/Beginner-CLI-Tools/Launching-Multiple-Nodes/Launching-Multiple-Nodes.html)
   - [Launch Tutorials](https://docs.ros.org/en/jazzy/Tutorials/Intermediate/Launch/Launch-Main.html)
 
-- 0217: Frame Transformations
+- 0217: Class 7 - Frame Transformations
   - [Introducing `tf2`](https://docs.ros.org/en/jazzy/Tutorials/Intermediate/Tf2/Introduction-To-Tf2.html)
   - [Proper way to publish static transforms](https://docs.ros.org/en/jazzy/Tutorials/Intermediate/Tf2/Writing-A-Tf2-Static-Broadcaster-Py.html#the-proper-way-to-publish-static-transforms)
   - [Writing a broadcaster](https://docs.ros.org/en/jazzy/Tutorials/Intermediate/Tf2/Writing-A-Tf2-Broadcaster-Py.html)
 
-- 0219: Quaternion
+- 0219: Class 8 - Quaternion
   - [Quaternion and 3D Rotation Explained](https://www.youtube.com/watch?v=zjMuIxRvygQ)
 
-- 0224: LiDAR
-  - [LiDAR](/_docs/robotics2-2026/0224/lidar.pdf)
+- 0224: Class 9 - [LiDAR](/_docs/robotics2-2026/0224/lidar.pdf)
 
-- 0226: IMU
+- 0226: Class 10 - IMU
   - [example code](https://github.com/linzhangUCA/homer_pico/blob/main/upython_scripts/perception/imu.py)
+
+- 0310: Class 11 - [Robotic Vision](/_docs/robotics2-2026/0310/vision.pdf)
+  - [example code](https://github.com/linzhangUCA/homer_bringup/blob/main/homer_bringup/aruco_detector.py)
 
 ## Resources
 
