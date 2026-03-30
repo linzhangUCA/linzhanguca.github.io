@@ -17,7 +17,7 @@ excerpt: >
 
 ## Latest Updates
 
-- 03/11: Updated class 11 slides and example link.
+- 03/30: Updated A4 link and IMU code link.
 - 03/08: Updated class 10 example code link.
 - 02/24: Updated class 8, 9 slides and a3 link.
 - 02/18: Updated class 7 and p2 links.
@@ -67,7 +67,7 @@ excerpt: >
 - 0224: Class 9 - [LiDAR](/_docs/robotics2-2026/0224/lidar.pdf)
 
 - 0226: Class 10 - IMU
-  - [example code](https://github.com/linzhangUCA/homer_pico/blob/main/upython_scripts/perception/imu.py)
+  - [example code](https://github.com/linzhangUCA/homer_pico/blob/main/upython_scripts/perception/inertial_sensor.py)
 
 - 0310: Class 11 - [Robotic Vision](/_docs/robotics2-2026/0310/vision.pdf)
   - [example code](https://github.com/linzhangUCA/homer_bringup/blob/main/homer_bringup/aruco_detector.py)
@@ -83,6 +83,7 @@ excerpt: >
 1. [Chat with Pico](https://classroom.github.com/a/DDX-qQE9), **due: 03/01/26**
 2. [Figure8 Turtle](https://classroom.github.com/a/a4Gqehwo), **due: 03/08/26**
 3. [Figure8 HomeR](https://classroom.github.com/a/1dyzZm3y), **due: 03/29/26**
+4. [ArUco Follower](https://classroom.github.com/a/zXXCue_b), **due: 04/26/26**
 
 ## Projects
 
