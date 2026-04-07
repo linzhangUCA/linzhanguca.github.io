@@ -89,4 +89,4 @@ excerpt: >
 
 1. [First ROS Package](https://classroom.github.com/a/Prk-OBLE). **Demo day: 02/12**
 2. [ROS Rover](https://classroom.github.com/a/bB9iZ9df). **Demo due date: 03/19**
-3. [The Odyssey](https://classroom.github.com/a/Prk-OBLE). **Demo day: 04/30**
+3. [The Odyssey](https://classroom.github.com/a/7KaPTW5f). **Demo day: 04/30**
