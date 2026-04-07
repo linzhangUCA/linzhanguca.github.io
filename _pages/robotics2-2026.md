@@ -83,9 +83,10 @@ excerpt: >
 1. [Chat with Pico](https://classroom.github.com/a/DDX-qQE9), **due: 03/01/26**
 2. [Figure8 Turtle](https://classroom.github.com/a/a4Gqehwo), **due: 03/08/26**
 3. [Figure8 HomeR](https://classroom.github.com/a/1dyzZm3y), **due: 03/29/26**
-4. [ArUco Follower](https://classroom.github.com/a/zXXCue_b), **due: 04/26/26**
+4. [ArUco Follower](https://classroom.github.com/a/zXXCue_b), **due: 05/1/26**
 
 ## Projects
 
 1. [First ROS Package](https://classroom.github.com/a/Prk-OBLE). **Demo day: 02/12**
 2. [ROS Rover](https://classroom.github.com/a/bB9iZ9df). **Demo due date: 03/19**
+3. [The Odyssey](https://classroom.github.com/a/Prk-OBLE). **Demo day: 04/30**
